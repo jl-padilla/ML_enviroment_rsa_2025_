@@ -1,0 +1,1382 @@
+,sector_actividad,count
+0,educacion,21
+1,construccion,20
+2,formacion,13
+3,formacion reglada,9
+4,transporte mercancias carretera,8
+5,accion social,8
+6,comunidad autonoma aragon,7
+7,ingenieria,5
+8,ensenanza formacion reglada,5
+9,sector metal,5
+10,correduria seguros,4
+11,artes graficas,4
+12,asesoria empresas,4
+13,consultoria formacion,4
+14,servicios,4
+15,transporte viajeros carretera,4
+16,servicios sociales,4
+17,ensenanza reglada,4
+18,inmobiliaria,3
+19,cnae= servicios comida restauracion colectiva,3
+20,agroalimentario,3
+21,seguridad privada,3
+22,metal,3
+23,formacion empleo,3
+24,mujer accion social,3
+25,administracion publica,3
+26,seguros,3
+27,instalaciones electricas,3
+28,centro formacion,3
+29,publicidad,3
+30,sector automocion,3
+31,ambito educativo,3
+32,servicios comunidad servicios edificios,2
+33,gestor residuos peligrosos fabricacion fertilizantes,2
+34,huesca provincia,2
+35,marketing comunicacion,2
+36,aragon,2
+37,servicios sociales atencion persona,2
+38,distribucion,2
+39,educacion formacion,2
+40,tratamiento aguas,2
+41,insercion laboral personas situacion riesgo exclusion social,2
+42,servicios juridicos,2
+43,silvicultura actividades forestales,2
+44,prestacion servicios gestion administrativa prestacion servicios asesoramiento fiscal laboral,2
+45,comercio mayor maquinaria equipo,2
+46,consultoria empresarial,2
+47,sector sociosanitario,2
+48,desarrollo rural,2
+49,multisectorial,2
+50,consultoria informatica,2
+51,consultoria,2
+52,textil,2
+53,instalacion mantenimiento sistemas proteccion incendios,2
+54,energias renovables,2
+55,tic,2
+56,asociacionismo,2
+57,socio sanitario,2
+58,servicios sociales autonomico,2
+59,tratamiento eliminacion residuos peligrosos,2
+60,sociosanitario,2
+61,hosteleria,2
+62,industrial,2
+63,sector servicios,2
+64,servicios arquitectura urbanismo,2
+65,actividades deportivas,2
+66,comercial,2
+67,comunicacion,2
+68,limpieza edificios locales,2
+69,entidad publica,2
+70,discapacidad,2
+71,inyeccion plasticos,2
+72,sanidad,2
+73,intersectorial ambito provincial,2
+74,servicios vending,2
+75,sector inmobiliario,2
+76,transporte viajeros,2
+77,formacion consultoria,2
+78,transporte distribucion almacenaje mercancias temperatura controlada,1
+79,industrial recuperacion metales ferricos,1
+80,barnizados lacados piezas madera,1
+81,diseno desarrollo maquinaria sector agrario,1
+82,suministro industrial productos servicios soluciones mantenimiento industrial fabricacion bienes equipo proteccion trabajador,1
+83,servicios consultoria formacion liderazgo empresas emprendedores coaching mentorias,1
+84,fabricacion comercializacion distribucion equipamiento cuarto bano mobiliario,1
+85,transformacion quimica,1
+86,industria manufacturera sector ferroviario,1
+87,pertenece sector actividades acabado edificios actividades montaje cerramientos metalicos impermeabilizacion obras construccion obras albanileria,1
+88,quimico diseno fabricacion comercializacion productos quimicos tratamiento superficies aguas residuales,1
+89,consultora tecnologica especializada sector retail,1
+90,sector principal alojamientos turisticos extrahorteleros casa ecoturismo rural alojamiento compartido sectores complementarios ensenanzas establecimiento permanente formaciones talleres fabricacion textil fibras recuperacion artesania,1
+91,gestion administracion propiedad inmobiliaria,1
+92,sector industrial mineria roca alabastro uso ornamental,1
+93,sector metal fabricacion estructuras metalicas componentes,1
+94,gestion nuevas tecnologias pyme asociaciones pymes autonomos desarrollo web mantenimiento hardware software & redes informaticas gestion cloud computing hosting & rss,1
+95,agencias publicidad,1
+96,fabricacion montaje estructuras metalicas,1
+97,servicios consultoria ingenieria mecanica,1
+98,sector telecomunicaciones epigrafe iae servicios independientes ncop codigo actividad resto empresariales actividad comunicaciones energia seguridad servicios tic equipamientos iot internet cosas domotica,1
+99,i+d,1
+100,CNAE 5510 hosteleria cnae,1
+101,actividades construccion especializada,1
+102,gft desarrolla soluciones sostenibles medio nuevas tecnologias ingenieria cloud ia blockchain dlt profunda experiencia tecnologica conocimientos mercado solidas alianzas gft ofrece asesoramiento sectores financiero asegurador asi industria manufacturera,1
+103,club deportivo montana somontano provincia huesca,1
+104,fundacion desarrollara principalmente actividades territorio espanol cuanto ambito personal sector poblacion atendida actuacion fundacion circunscribe poblacion estudiantil adulta personas tercera edad,1
+105,empresa dedicada sector servicios concretamente transporte viajeros carretera,1
+106,accion social formacion sensibilizacion,1
+107,sector fabricacion textil,1
+108,investigacion desarrollo experimental biotecnologia,1
+109,transformacion vidrio diferentes sectores construccion industrial mueble automocion,1
+110,servicios publicidad relaciones publicas similares ensenanza formacion perfeccionamiento profesional superior,1
+111,alquiler venta mobiliario decoracion eventos,1
+112,sector juguete,1
+113,atencion integral personas discapacidad intelectual,1
+114,moda sostenible reutilizacion textil arreglos textil emocional,1
+115,construccion arquitectura diseno interiores diseno grafico,1
+116,mercados provincia zaragoza,1
+117,construccion obra civil construccion conservacion mantenimiento explotacion toda clase obra publica privada realizando trabajos necesarios ello movimiento tierras perforaciones puentes viaductos grandes estructuras edificaciones demoliciones albanileria gen,1
+118,carpinteria madera construccion decoracion,1
+119,limpieza mantenimiento profesional industrias empresas comunidades,1
+120,agriculture forestry and fishing,1
+121,agente seguros exclusivo,1
+122,accion social mujer juventud deporte,1
+123,socioasistencial sociosanitario sociolaboral incidencia tambien formacion profesionales vayan tratar colectivos atendemos,1
+124,madera fabricacion,1
+125,administracion publica gestion municipal poblacion,1
+126,diseno grafico branding diseno web diseno aplicaciones marca online offline,1
+127,actividad principal actividades programacion informatica actividades actividades apoyo empresas n c p actividades alojamientos turisticos extrahoteleros,1
+128,corredores seguros,1
+129,consultora financiera estrategica,1
+130,sector comercio grandes almacenes,1
+131,deporte actividad fisica,1
+132,fabricacion mobiliario cocina bano armario empotrado,1
+133,fabricacion moldes inyeccion plastico,1
+134,fabricante equipos climatizacion,1
+135,CNAE 6209 ebrosarium sl empresa dedicada tecnologia marketing formacion clasifica dentro codigo cnae servicios relacionados tecnologias informacion informatica clasificacion justifica siguientes razones actividades principales estan relacionadas prestacion servicios tecnologia informacion * desarrollo software creamos medida software empresas organizaciones adaptandonos necesidades especificas * implementacion soluciones tecnologicas ayudamos empresas integrar nuevas tecnologias procesos operaciones * mantenimiento sistemas informaticos encargamos correcto funcionamiento sistemas informaticos clientes * consultoria informatica asesoramos empresas toma decisiones relacionadas tecnologias informacion tambien ofrecemos servicios marketing formacion estan estrechamente relacionados tecnologias informacion * marketing digital creamos implementamos estrategias marketing digital ayudar empresas llegar clientes potenciales * formacion tecnologias informacion ofrecemos cursos talleres personas puedan aprender utilizar nuevas tecnologias definitiva todas actividades objetivo ayudar empresas organizaciones aprovechar maximo potencial tecnologias informacion,1
+136,comercio mayor madera materiales construccion aparatos sanitarios,1
+137,distribucion material laboratorio,1
+138,diseno grafico web marketing digital,1
+139,marketing comunicacion agencia audiovisual,1
+140,extrusion inyeccion plastico,1
+141,construccion reformas,1
+142,industria sector metal provincia zaragoza,1
+143,fabricacion comercio pan bolleria pasteleria,1
+144,fab estructuras metalicas construcc completa obras civiles commay materiales construccion,1
+145,ferreteria suministros drogueria pintura,1
+146,venta vehiculos renault dacia venta vehiculos seminuevos usados venta piezas recambio servicio reparacion mecanica electricidad coches furgonetas combustion hibridas electricos taller chapa pintura servicio rapido mnatenimiento servicio rapido neumaticos alquiler coches conductor,1
+147,industria alimentacion fabricacion galletas productos panaderia pasteleria larga duracion,1
+148,aiot,1
+149,abogado consultor proteccion datos,1
+150,consultoria servicios ingenieria orientada principalmente soporte tecnico sector energetico abarcando asesoramiento gestion total parte tecnica backoffice administrativo operativo servicios auditara incluso desarrollo soluciones adaptadas,1
+151,sector mueble,1
+152,empresa aprovecha residuos manufactura alabastro producir aridos diversa granulometria aridos estan constituidos principalmente yeso microcristalino gran pureza empresa aplica economia circular torno residuos industria alabastro aridos usados usos agricolas enmienda calcica fertilizante usos ganaderos cama ganado usos industriales base obtencion productos yeso cocido escayolas cementos gran calidad ademas empezando comercializar productos carga plasticos composites basicamente intenso color blanco,1
+153,distribucion productos maquinaria limpieza,1
+154,arquitectura,1
+155,individualizacion consumos instalacion suministro lectura dispositivos medicion agua caliente sanitaria calefaccion energia fria caliente comunidades propietarios,1
+156,CNAE 0161 sector empresa agricola cnae actividades apoyo agricultura,1
+157,gestion inmobiliaria,1
+158,gestion investigacion desarrollo elaboracion proyectos estudios campo solicitudes autorizaciones administrativas instalacion parques eolicos explotacion,1
+159,centro educacion infantil cei,1
+160,operacion mantenimiento parques eolicos,1
+161,suministros electricos electronicos dpto ingenieria,1
+162,transporte sanitario transporte enfermos accidentados ambulancia,1
+163,almacenamiento transporte temperatura controlada,1
+164,comercio mayor menor productos alimentacion bebidas,1
+165,principal actividad desempena empresa asesoramiento consultoria realizacion tipo tramites agricolas,1
+166,desarrollamos actividades mensajeria logistica tienda venta reparacion bicicletas asesoria laboral fiscal contable consultoria asesoramiento empresas,1
+167,distribucion productos informaticos servicios tic programacion servicios web desarrollo webs apps posicionamiento sem seo consultoria proteccion datos marketing,1
+168,CNAE 4669 cnae,1
+169,seguros inversion,1
+170,sistemas electricos iluminacion vehiculos industriales,1
+171,sector artes graficas manipulados papel manipulados carton editoriales industrias auxiliares,1
+172,suministro agricola industrial instalaciones venta online,1
+173,fotografia gastronomica estilismo alimentos creacion contenido marcas comida bebida apuestan imagen potente calidad atraer mas clientes,1
+174,venta menor libros papeleria,1
+175,industria quimica fabricacion botellas gas industrial,1
+176,instalacion mantenimiento sistemas seguridad proteccion incendio,1
+177,textil produccion instalacion productos proteccion solar,1
+178,servicio publico taxi,1
+179,consultoria negocio marketing digital formacion,1
+180,asesoria torres despacho abogados mas anos actividad encargamos ofrecer asesoria juridica fiscal contable laboral ademas facilitamos cualquier tramite servicio personalizado,1
+181,empresa animaciones infantiles eventos garantizamos peques diviertan maximo especialistas celebracion cumpleanos infantiles fiestas tematicas mas atendemos bodas bautizos comuniones halloween carnaval todas ocasiones especiales,1
+182,ofrecemos rapidez soluciones energeticas eficientes calidad priorizamos atencion plena personalizada clientes queden satisfechos conformes servicio prestado,1
+183,empresa especializada ofrecer amplia gama tarjetas graficas proporcionamos servicios incluyen ensamblaje computadoras venta componentes individuales atencion pedidos especiales extendemos alcance mas alla clientes individuales ofreciendo ventas mayor tiendas servicios extienden mas alla zaragoza alcanzando clientes toda espana europa,1
+184,accion intervencion social comunitaria mediacion social comunitaria intercultural sector social servicios comunidad autonoma aragon,1
+185,rotomoldeo,1
+186,ingenieria diseno fabricaicon montaje sectores residuos ceramica mineria,1
+187,medicina salud centro medico rehabilitacion integral,1
+188,fabricacion piensos compuestos integracion ganadera,1
+189,suministro instalacion carpinteria metalica pvc,1
+190,elaboracion transformacion productos pesca extractiva acuicultura frescos congelados venta distribucion,1
+191,CNAE: 2561 sector industria tecnologia servicios metal bop zaragoza actividad tratamiento recubrimiento metales cnae tratamiento revestimiento metales,1
+192,fabricacion distribucion productos biocidas nutricionales sector ganadero,1
+193,centro cultural,1
+194,transporte terrestre carretera carga fraccionada paleteria,1
+195,publicidad relaciones publicas,1
+196,CNAE  5829 cnae desarrollo aplicaciones informaticas iae,1
+197,restauracion colectiva,1
+198,ambito actuacion principal codesarrollo ambito vinculado cooperacion desarrollo educacion desarrollo ciudadania global partiendo enfoque tambien ambitos actuacion accion social intervencion diversas areas relacionadas personas migrantes,1
+199,ambito actuacion educacion sector formacion profesional centro integrado formacion profesional ofrecen todas lineas educativas posibles adquisicion cualificaciones profesionales diferentes niveles educativos trabajamos educacion formal formacion profesional grados superiores grados medios grados basicos familias agraria alimentaria ensenanzas formacion empleo certificados profesionales convenio inaem orientacion empleo ofrecido departamento iope informacion orientacion profesional empleo procedimientos evaluacion acreditacion competencias gestionadas departamento eac,1
+200,administracion local,1
+201,tercer sector intervencion social,1
+202,centro publico integrado formacion profesional actualidad imparten familias seguridad medio ambiente agraria actividades fisicas deportivas centro referencia nacional gestion ambiental,1
+203,CNAE: 6202 cnae actividades consultoria informatica,1
+204,ambito aragon sector cultural,1
+205,personas situacion vulnerabilidad exclusion social fines asociacion promocionar socialmente personas riesgo exclusion social vulnerabilidad social crear ambiente inclusivo celebra diversidad todas formas principalmente nivel cultural etnico genero orientacion sexual apoyar iniciativas entidades personas fomenten lucha pobreza consumo responsable cuidado medio ambiente cooperacion internacional dar conocer sociedad impacto diferentes situaciones exclusion vulnerabilidad social visibilizando trabajo asociacion mediante acciones difusion sensibilizacion coordinar acciones red recursos publicos privados existentes cada momento captacion animacion formacion voluntariado apoyar distintos proyectos asociacion,1
+206,sector metal diseno fabricacion comercializacion distribucion soluciones aluminio arquitectura industria,1
+207,sector electrico,1
+208,correduria seguros lider aragon mas oficinas propias alrededor oficinas colaboradoras nivel nacional sede coorporativa zaragoza empresa capital % aragones compania referente sector seguros agrarios referente volumen negocio seguros agricolas pecuarios aragon valle ebro amplio equipo profesionales expertos sector asegurador,1
+209,turistico cultural,1
+210,fabricacion transformacion papel tissue usos domesticos,1
+211,sociosanitario comunidad autonoma aragon,1
+212,insert estructura bajo ejes accion torno cuales dinamiza programa independiente eje emprendimiento atendido incubadora yawal eje innovacion impulsado gracias colaboracion permanente agentes integracion metodologia diving driving innovation eje proyectos impacto cuyo objetivo central programa construccion colaborativa soluciones enfoque ecosistemico nivel local regional,1
+213,familias unidas fundacion animo lucro independiente vinculacion politica religiosa trabaja cooperacion solidaria paises vias desarrollo lleva cabo proyectos mejorar condiciones vida poblaciones mas desfavorecidas construyendo bases sociedad gestione propio modelo desarrollo integral sostenible familias unidas tambien trabaja ambito accion intervencion social pais traves gestion proyectos sociales educacionales especialmente aquellos contribuyen insercion social colectivos mas vulnerables educacion valores toma conciencia sociedad necesidad desarrollo sostenible ambitos principales actuacion i cooperacion desarrollo familias unidas lleva fomentando modelo desarrollo humano integral sostenible atienda necesidades basicas poblacion mas desfavorecida zonas prioritarias paises sur organizacion genere procesos economicos sociales ambientales desarrollo largo plazo asentado valores tolerancia respeto colaboracion substrato basico construir relaciones sociales nivel personal familiar comunitario ii sensibilizacion educacion desarrollo ciudadania global epdcg familias unidas lleva trabajando sensibilizar educar comunidad educativa aragonesa poblacion general diferencias interdependencias paises norte sur generar procesos reflexion transformacion hacia modelo sociedad mas sostenible economica social medioambientalmente iii accion social familias unidas lleva desarrollando programas dirigidos colectivos vulnerables situacion riesgo exclusion social mayoritariamente inmigrantes mujeres ejecutando programas especializados colectivo mujeres trabajadoras hogar cuidados promover integracion participacion sociedad igualdad derechos deberes resto ciudadania enlace web wwwfundacionfamiliasunidasorg hacemos,1
+214,dispositivo digital aplicacion movil salud transportistas,1
+215,actividades fromacion reglada reglada,1
+216,educacion servicios recreativos culturales servicios cuidado menores,1
+217,carpinteria madera,1
+218,actividades fomento bienestar colectivos vulnerables trabajando servicios sociales,1
+219,dedicada actividad estampacion soldadura ensamblajes mercado engloba sectores automovil linea blanca elevacion cnae forja estampacion embuticion metales metalurgia polvos,1
+220,fabricacion recubrimiento productos derivados alambre,1
+221,social calatayud comarca extension comarcas colindantes,1
+222,sector metal fontaneria calefaccion climatizacion reformas,1
+223,mecanizacion,1
+224,centro medico privado especialidades medicas implantes dentales cirujia oral ortodoncia endodoncia microscopio electronico odontologia generalsedacion consciente estetica dental fisioterapia traumatologia medicina vascular medicina regenerativa psicologia anestesiologia reanimacion valoracion dano corporal carnet conducir reconocimientos aeronauticos salud sexual masculina,1
+225,produccion audiovisual marketing audiovisual video fotografia,1
+226,compraventa vehiculos recambios accesorios asi reparacion mismos,1
+227,CNAE: 2829 sector metal cnae fabricacion maquinaria uso general ncop,1
+228,empresa dedicada transporte especial surge enero apostamos claramente transporte especial forma general ofreciendo soluciones integradas mediante utilizacion transporte rodado gruas servicios transitarios faciliten cliente logistica completa transporte productos ello invertimos actualizamos forma constante equipos humanos transporte,1
+229,diseno moda complementos sostenible,1
+230,empresas consultoria desarrolladores software prevencion riesgos laborales,1
+231,carpinteria metalica vallados puertas estructuras metalicas,1
+232,lefrig trabajamos principalmente siguientes ambitos epdgc cooperacion desarrollo intervencion social juridica politica,1
+233,CNAE 82 actividades apoyo empresas cnae,1
+234,diseno interiores mobiliario producto,1
+235,productos merchandising,1
+236,telecomunicaciones,1
+237,educacion superior universitaria,1
+238,construccion edificacion industrial gestion obras,1
+239,fabricacion elaboracion transformacion vino,1
+240,organizacion presta diferentes servicios prestacion servicios legales empresas asesoramiento implementacion sistemas gestion proteccion datos igualdad imparticion diferentes tipos formacion metodologia on line presencial mixta funcion necesidades cliente,1
+241,sector comercio mayor maquinaria mineria construccion ingenieria civil actividad venta alquiler maquinaria industrial,1
+242,fontaneria instalaciones sistemas calefaccion aire acondicionado,1
+243,corporacion upwards sa brembo espana empresa dedicada distribucion sistemas freno automocion parte grupo internacional brembo opera principalmente mercados espanol portugues,1
+244,promocion desarrollo sector turistico nieve comunidad autonoma aragon,1
+245,formacion vial,1
+246,venta informatica telefonia imagen & sonido pequeno electrodomestico venta papeleria material escolar libros juguete regalo reparacion informatica telefonia servicio tecnico especializado particulares pymes adm locales,1
+247,imprenta gran formato,1
+248,inar tecnologias ayudamos clientes desarrollar productos tic hardware firmware software optimizar procesos mediante uso iot monitorizando sensores propios terceros ofertando solucion optima cada escenario expertos sensores inalambricos ultrabajo consumo trabajamos distintas tecnologias inalambricas lora bluetooth wifi zigbee,1
+249,sector alimentacion actividad principal procesamiento productos mar frescos posterior envasado bandejas atmosfera protectora,1
+250,comunicacion organizacion eventos relaciones publicas diseno publicidad,1
+251,consultoria innovacion estrategica agroalimentaria,1
+252,forja estampacion embuticion metales metalurgia polvos,1
+253,sector actividad textil,1
+254,empresa netamente aragonesa dedicada elaboracion encimeras cocina bano lapidas cualquier trabajo relacionado piedra natural materiales novedosos porcelanicos comunidades fachadas solados aplacados banos etc,1
+255,sector industria tecnologia servicios sector metal ensayos analisis tecnicos,1
+256,asesoramiento tecnologico suministros productos servicios informaticos servicio postventa productos servicios informaticos,1
+257,sanidad fisioterapia dietetica,1
+258,sector energetico mas concretamente energia solar fotovoltaica rama principal negocio instalacion aerotermia segunda rama empresa realizacion asesoramiento instalacion,1
+259,participacion ciudadana innovacion social conceptualizacion gestion produccion facilitacion proyectos eventos relacionados sector diseno formaciones planes estrategicos administraciones publicas,1
+260,salud mental mentora entrenadora mental alto rendimiento reprogramacion mental formadora formadores,1
+261,cerfo empresa nueva creacion cuyo objeto social investigacion desarrollo nuevos procesos productivos reutilizacion reciclaje materiales componentes paneles solares fotovoltaicos garantizando asi circularidad procesos reciclaje,1
+262,principalmente sector automocion aunque trabajo podemos realizar cualquier tipo sector quiera automatizar alguna parte produccion logistica farmaceutica alimentaria,1
+263,actividades holding,1
+264,asociacion empresarial ambito local comarcal,1
+265,elaboracion vinos,1
+266,deporte salud,1
+267,conservacion biodiversidad medio ambiente,1
+268,mecanizado piezas,1
+269,servicios caracter general,1
+270,tercer sector poblacion infantojuvenil tea condiciones desarrollo,1
+271,educacion juventud accion social,1
+272,educativo cultural artistico medioambiental,1
+273,equimodal disenamos fabricamos homologamos integramos contenedores cajas moviles soluciones containerizadas transporte intermodal cualquier aplicacion logistica industrial energetica emergencias,1
+274,materiales asfaltos hormigones construccion obra civil,1
+275,construccion promocion viviendas naves industriales instalaciones agroganaderas,1
+276,consultoria gestion proyectos,1
+277,fabricacion productos quimicos distribucion equipacion piscinas,1
+278,sociedad objeto integracion laboral personas discapacidad mediante realizacion trabajos acordes facultades residuales actividades desarrolladas servicios limpieza tipo inmuebles instalaciones ambientes muebles enseres servicios auxiliares textiles servicios auxiliares automocion manipulados industriales servicios manipulados industriales gestion logistica distribucion integral grabacion digitalizacion datos creacion paginas web servicios on line administrativos gestion comerciales servicios vigilancia control espacios publicos privados servicios formativos mediante realizacion cursos materias relacionadas objeto social entidad servicios asesoramiento materias comprendidas objeto social entidad servicios lavanderia tintoreria cosido arreglo tipo prendas servicios tele trabajo apoyo personas dependientes domicilio entorno servicios construccion rehabilitacion servicios hosteleria mantenimiento urbano medioambiental reciclado gestion autorizada residuos gestion archivos privados publicos prestar servicios restauracion integral incluido servicios cafeteria bar vending alimentacion prestacion servicios auxiliares tales recepcion control accesos conserjeria reparto paqueteria traslado materiales transporte personas actividades deportivas ocio servicios logisticos socorrismo gestion importacion exportacion materias primas productos elaborados servicio catering realizacion preparacion comercializacion venta suministro comidas preparadas productos alimenticios intermediacion compra venta productos alimenticios servicios asesoramiento materias comprendidas objeto social entidad impartir cursos formacion materias directamente relacionadas objeto social conformidad objetivo integracion laboral personas discapacidad servicios fabricacion explotacion manipulacion distribucion comercializacion cualquier producto existente mercado ello acuerdo decreto gobierno aragon regulan centros especiales empleo,1
+279,empresa insercion desarrolla actividades servicios auxiliares empresa textil servicios limpieza tipo inmuebles instalaciones ambientes muebles enseres servicios manipulados industriales servicios conserjeria servicios formacion,1
+280,objetivo actuar mercados nivel nacional internacional disenadores fabricantes tipo contenedores cajas moviles cisternas elementos complementarios disenamos fabricamos tipo contenedores cajas moviles furgones cisternas elementos complementarios contamos base amplios conocimientos experiencias construccion estructuras metalicas concretado capitulo transporte logistica equipos atender necesidades cada dia aparecen mercado,1
+281,piezas conjuntos plastico inyectado automocion linea blanca,1
+282,ensenanza formacion profesional fabricacion comercializacion material electrico,1
+283,servicios tecnicos ingenieria actividades relacionadas asesoramiento tecnico,1
+284,alreco sl empresa dedicada fabricacion comercializacion material fundicion registros rejillas accesorios tuberia valvulas sector construccion,1
+285,centro formacion ensenanza privada reglada,1
+286,sector manufacturero industria quimica,1
+287,banca,1
+288,suministro montaje instalaciones equipamiento oficinas,1
+289,enfocamos empresas actividad economica ambito logistica,1
+290,salud mental bienestar emocional psicoterapia terapia individual pareja familiar grupal grupos terapeuticos orientacion vocacional laboral orientacion estudiantes opositores life coaching executive & management coaching couching mentoring emprendedores formacion charlas talleres seminarios cursos seleccion personal,1
+291,industrial diseno fabricacion montaje estructuras prefabricadas hormigon construccion edificaciones cualquier uso tipologia,1
+292,servicio prevencion ajeno,1
+293,grupo intasal sl empresa acreditada certificada instalacion mantenimiento sistemas proteccion incendios sistemas deteccion extincion aire comprimido suministro agua fluidos desarrollamos proyectos ingenieria instalacion legalizacion mantenimiento cualquier sistema proteccion incendios adaptandonos espacio necesidades cada cliente siempre cumpliendo norma normativa vigente,1
+294,deporte,1
+295,fundacion circe entidad animo lucro privada anos experiencia ambito sostenibilidad eficacia recursos redes energeticas energias renovables buscamos aportar soluciones innovadoras desarrollo sostenible creando valor economico medioambiental social sector investigacion desarrollo,1
+296,gestion residuos,1
+297,organizacion realizacion eventos deportivos recreativos ocio tiempo libre asi venta calzado ropa deportivo,1
+298,metal siderurgia,1
+299,inmobiliaria administracion fincas,1
+300,alimentacion,1
+301,diseno impresion manipulacion encuadernacion artes graficas,1
+302,comercializacion elaboracion productos carnicos,1
+303,consultoria comercial marketing compraventa empresas,1
+304,sector metal fabricante portaferetros escaleras descensores cementerios,1
+305,telecomunicaciones audiovisuales,1
+306,industria carnica,1
+307,industria manufacturera industria papel cnae,1
+308,restauracion colectividades,1
+309,distribucion productos sanitarios equipamientos hospitalarios,1
+310,recogida residuos solidos urbanos industriales lavado contenedores limpiezas urbanas edificios,1
+311,servicio integral vending empresas negocios,1
+312,bodega elaboradora comercializadora vinos denominacion origen somontano,1
+313,integracion laboral personas discapacidad,1
+314,agencia formacion,1
+315,servicios transporte mercancias carretera,1
+316,servicio sanitario privado,1
+317,actividades distribucion cinematografica video codigo cnae actividad,1
+318,comunicacion marketing publicidad,1
+319,asesoramiento legal tributario,1
+320,servicios limpieza mantenimiento,1
+321,distribucion material elecctrico electronico,1
+322,actividad fabricacion componentes piezas accesorios vehiculos motor,1
+323,ingenieria energias renovables intermediacion comercializacion,1
+324,entidad lucrativa acogemos ninos ninas saharauis estudiar aragon familias aragonesas,1
+325,consultoria sistema gestion proyectos i+d+i estrategia mejora,1
+326,sanidad ambiental control plagas,1
+327,derechos personas lgtbiq+ especialmente medio rural,1
+328,marketing imagen comunicacion diseno grafico publicidad formacion,1
+329,medio ambiente agricultura,1
+330,discapacidad atencion personas discapacidad intelectual,1
+331,sector agroalimentario especial profesion ingeniero agronomo,1
+332,provincia huesca,1
+333,sector servicios profesionales ambito actuacion economistas aragon,1
+334,cultura aragonesa espana,1
+335,defensa personas consumidoras tercer sector ambito autonomico,1
+336,sercade funcion principal acompanamiento capuchinos espana gestion coordinacion cohesion desarrollo programas sociales espana presencias mantienen actualidad custodias mexico venezuela ecuador asi lugares relacion historia hermandad significado presencias puntuales consideremos importante actuar labor dirigido tradicionalmente personas exclusion social dentro grupo concreto personas mayores hogar vecinas barrio escasos recursos atendiendo necesidades mas basicas alimentacion vestido vivienda ocio etc,1
+337,educacion formacion comunidad autonoma aragon,1
+338,telecomunicaciones seguridad audiovisuales,1
+339,CNAE 4321 instalaciones electricas alta media baja tension cnae instalacion aires acondicionados ciiu,1
+340,imagen personal belleza bienestar,1
+341,traduccion interpretacion,1
+342,distribucion producto sanitario,1
+343,transformacion plasticos inyeccion,1
+344,sector servicios sociales salud,1
+345,sedoscom englobado sector industrial,1
+346,quimico fabricacion sales esteres acidos grasos,1
+347,social area salud ambito estatal,1
+348,comercio productos servicios agricolas,1
+349,trabajamos personas siendo formacion desarrollo foco interes proyecto educativo abarca siguientes etapas educacion infantil educacion primaria educacion secundaria formacion profesional rama administracion finanzas ademas relaciones empresas multitud programas ejemplo erasmus bilinguismo,1
+350,comarca somontano,1
+351,administracion publica gestion municipal binefar,1
+352,asociacion animo lucro atencion pacientes distonia familiares profesionales asi personas interesadas enfermedad distonia,1
+353,ensenanza ribera baja ebro,1
+354,tecnologia,1
+355,sector cultural sector audiovisual,1
+356,sector personas discapacidad,1
+357,infancia juventud tiempo libre,1
+358,cultura universidad,1
+359,mantenimiento instalacion sistemas calefaccion climatizacion fontaneria proteccion incendios desatascos tuberias,1
+360,siderometal empresa especializada diseno fabricacion instalacion tipo equipamientos deportivos euronix ofrecemos asesoramiento integral adaptado necesidades cada cliente indistintamente indole deportiva requiera,1
+361,bodega vinos elaboracion comercializacion,1
+362,ciclo integral agua,1
+363,CNAE 8122 cnae limpieza mantenimiento instalaciones industriales convenio colectivo limpieza edificios locales provincia huesca,1
+364,consultoria it diseno desarrollo software personalizado marketing digital ciberseguridad,1
+365,compra venta maquinaria hosteleria convenio comerio metal,1
+366,diseno estrategico diseno servicios experiencia uso formacion,1
+367,agricola,1
+368,actividad empresa objetivo ayudar empresas administraciones publicas implementacion estrategias economia circular generen transformacion social modelos negocio consumidor asi reduccion impactos medioambientales consideramos facilitador promotor implementacion casos exito simbiosis industrial economia circular ambitos desarrollo sostenibilidad todas areas sociedad servicios abarcan estudios consultoria empresarial transicion modelos negocio lineales modelos circulares sostenibles creacion nuevas fuentes ingresos organizaciones mejorando gestion residuos generados procesos desarrollar acciones destinadas creacion servicios intermediacion comercial aprovechamiento subproductos generados procesos industriales programas formacion empresarial activar economia circular sostenibilidad organizaciones programas formacion educativos sensibilizacion materia economia circular sostenibilidad asesoria consultoria administraciones publicas desarrollo estrategias proyectos minimizacion valorizacion residuos generan territorio valorizacion residuos peligrosos biorresiduos procedentes actividad comercial domestica valorizacion optimizacion tipo residuos mejora eficiencia procesos modelos negocio compra venta tipo productos servicios especializacion relacionados economia circular servicios gestion energetica minimizacion costes transporte interno externo promocion soluciones innovadoras productos servicios consultoria auditoria formacion interim management sistemas gestion,1
+369,servicios limpieza,1
+370,consultoria bancaria,1
+371,asesoria fiscal contable mercantil,1
+372,mejorar inclusion laboral personas minusvalia u capacidades especial atencion personas diagnostico tea trastorno espectro autismo,1
+373,carpinteria metalica,1
+374,sector agroindustrial,1
+375,cultural,1
+376,servicios organizacion congresos asambleas similares,1
+377,frio industrial,1
+378,diseno produccion comercializacion aparatos iluminacion fluorescencia led regletas industriales pantallas estancas luminarias superficie luminarias empotradas luminarias uso atmosferas potencialmente explosivas accesorios luminarias especificas granjas cultivo plantas,1
+379,hospital sector sanitario,1
+380,consulta psicologia,1
+381,instituto ikigai asociacion animo lucro clara vocacion servicio sociedad enfocamos desarrollo proyectos caracter social traves captacion fondos tambien ayudamos mediante consultoria instituciones conseguir metas desarrollo busqueda fondos asesoramiento administrativo ademas proveemos formacion diferentes colectivos normalmente areas emprendimiento liderazgo soft skills general,1
+382,servicios sociales atencion sociosanitaria,1
+383,CNAE 712 CNAE 2790 base sistemas ingenieria automatizacion instrumentacion industrial principales actividades centran · ingenieria basica detalle · integracion sistemas control basados dcs plc+scada · diseno configuracion redes industriales profinet modbus tcp ip opc ua iec · diseno fabricacion armarios control · definicion suministro instrumentos sistemas analizadores · solucion integral llaves mano proyectos automatizacion principales sectores industriales actividad quimico energetico farmaceutico dentro sector energetico centrados energias renovables focos tecnologias hidrogeno fuels biogas acompanando clientes · estaciones servicio hidrogeno hrs · almacenamiento hidrogeno · almacenamiento energia baterias inteligentes bess · bancos pruebas hidrogeno integracion equipos sistemas cnae actividades profesionales cientificas tecnicas cnae fabricacion material equipo electrico,1
+384,parques atracciones museos,1
+385,marketing comunicacion etico diseno etico,1
+386,sector agroalimentario actividad agricultura produccion primaria transformacion distribucion comercializacion aceite oliva virgen extra,1
+387,nodriza tech venture builder auna empresas diferentes sectores perfil tecnologico comun proyectos desarrollado todocesped cesped artificial arelux top chemicals materiales construccion orientados ahorro eficiencia energetica sportup vita nails doctor property inmobiliaria online,1
+388,formacion ocupacional trabajadores activo desempleados modalidad presencial linea enfocada mejora desarrollo competencial personas organizaciones,1
+389,fabricacion cuadros electricos equipos integracion electromecanica,1
+390,industria alimentaria,1
+391,cooperativa credito financiero,1
+392,automocion,1
+393,consultoria asesoria recursos humanos seleccion formacion desarrollo profesionales coaching ejecutivo empresarial profesor formacion profesionales,1
+394,recuperacion textil,1
+395,soluciones logisticas integrales ambito civil militar emergencia saneamiento wash vivienda salud alimentacion telecomunicaciones sostenibilidad,1
+396,actividades ensenanza formacion empleo,1
+397,seguridad privada proteccion incendios alarmas,1
+398,servicios limpieza jardineria hosteleria,1
+399,asesoria fiscal laboral contable,1
+400,servicio publico transporte viajeros taxi,1
+401,fundacion ambito estatal,1
+402,metal fabricacion disenocomercializacion servicio posventa cajas fuertes productos seguridad buzones productos comunidad,1
+403,investigacion mercados,1
+404,pertenece sector servicios siendo actualidad principales lineas actuacion servicio documentacion clientes desarrollos aplicaciones informaticas,1
+405,agropecuario,1
+406,servicios socioculturales comunidad,1
+407,ofrecer soluciones desafios seguridad hidrica contribuir construccion futuro sostenible resiliente trabajando bajo principios economia circular sociedad inteligente,1
+408,social,1
+409,promocion centros servicios actividades prevencion dependencia promocion autonomia personas discapacidad intelectual familias,1
+410,sector construccion actividad excavaciones movimiento tierras,1
+411,obra publica movimiento tierras obra civil produccion aridos,1
+412,realizacion actividades persigan consecucion fines interes general tipo cultural formativo asistencial promocion voluntariado social defensa medio ambiente naturaleza analoga especialmente aragon situado santuario senora angeles torreciudad ambito actuacion territorio nacional,1
+413,CNAE 85 organizacion empresarial ambito comunidad autonoma aragon cnae actividades organizaciones empresariales profesionales patronales cnae educacion ncop,1
+414,creacion desarrollo programas innovadores formacion panorama educativo cultural comunidad aragonesa resto territorio nacional,1
+415,servicios comunitarios facilities proceso dento iniciativa empresas insercion,1
+416,entidad caracter multisectorial ambito actuacion comarca somontano barbastro,1
+417,desarrollo soluciones tecnologicas empresa especializada realidad extendida realidad aumentada virtual mixta creacion mundos virtuales metaverso empresarial,1
+418,ingenieria especializada construccion proyectos aplicados sector produccion animal produccion vegetal agroalimentacion diseno gestion infraestructuras equipamiento destinado ganaderia servicios instalacion montaje mantenimiento distribucion productos fitosanitarios servicio asesoramiento gestion integrada plagas sanidad vegetal nutricion especializada,1
+419,fabricacion equipos climatizacion,1
+420,educacion formacion consultoria,1
+421,sector tecnologia atria solucionamos problemas industriales clientes traves nuevas tecnologias industria materiales,1
+422,educacion infantil primaria secundaria bachillerato,1
+423,fabricacion envases vidrio,1
+424,ymca organizacion lucrativa filiacion politica confesional dirigida voluntarios persigue mejorar sociedad traves apoyo ninos jovenes familias caracter voluntario ambito internacional presente paises centros empleados voluntarios mundo espana presente centros comunidades aragon presente centros tres provincias espana mas trabajadores voluntarios aragon trabajadores voluntarios,1
+425,cooperacion desarrollo,1
+426,sector fin fundacional inclusion mercado laboral aquellas personas diversas circunstancias encuentran riesgo exclusion social ambito actuacion nacional dispone direcciones regionales delegaciones comunidad autonoma oficina tres provincias zaragoza capital teruel capital alcaniz provincia huesca barbastro,1
+427,comercio metal,1
+428,consultoria marketing estrategico sector servicios customer experiences diseno servicios experiencias aplicados sector servicios general especializado sector turistico diseno planificacion organizacion control viajes medida eventos corporativos docencia area gestion empresarial especializado marketing gestion empresarial formacion emprendedores,1
+429,industria quimica,1
+430,servicios peluqueria senoras caballeros tratamientos belleza personal micropigmentacion,1
+431,desarrollo rural gestion programas europeos,1
+432,comunicacion asuntos publicos,1
+433,* diseno proyectos instalacion mantenimiento instalaciones alumbrado publico ornamental climatizacion electricas alta baja tension megafonia sonorizacion automatizacion domotica inmotica fuentes ornamentales ciberneticas telecomunicaciones * mantenimiento integral edificios * empresa servicios energeticos eficiencia energetica auditoria asesoria certificacion * empresa delegada fenie energia suministro luz gas,1
+434,iluminacion,1
+435,comercio hosteleria,1
+436,telecomunicaciones venta instalacion reparacion sistemas telecomunicaciones informatica electricos electronicos energias renovables domotica inmotica sonorizacion iluminacion redes datos redes datos voz alarmas,1
+437,asempaz desarrolla actividad dentro ambito territorial ciudad teruel perjuicio pueda llegar desarrollar actividades ambitos superiores razon acuerdos adoptados misma participacion organizaciones empresariales ambito provincial regional nacional,1
+438,industria fabricacion cables electricos comercio mayorista chatarra metales desecho partir,1
+439,actividades empresariales asociacitvas,1
+440,consultoria desarrollo software gestion empresarial,1
+441,servicios sociales infancia adolescencia juventud familias formacion profesionales sector social,1
+442,construccion gestion residuos,1
+443,diseno produccion comercializacion productos cosmeticos,1
+444,cnae confederacion actividades asociativas actividades organizaciones empresariales profesionales patronales actividades organizaciones empresariales patronale,1
+445,transporte mudanzas servicios manipulado pintura limpieza tecnica graffitis,1
+446,tecnologias informacion comunicacion,1
+447,productos servicios sector quimica actividad principal desarrollo implantacion gestion soluciones integrales bioseguridad,1
+448,fabricacion componentes conjuntos vehiculos,1
+449,organizacion empresarial provincia huesca,1
+450,turismo activo alquiler venta bicicletas organizacion actividades,1
+451,sector aeronautica transporte aereo actividad gestores aeroportuarios,1
+452,servicios auxiliares recepcionista conserjeria telefonista ordenanzas bedeles servicios limpieza inmuebles servicios domesticos particulares comunidades servicios teleasistencia,1
+453,educacion superior,1
+454,sector servicios sociales,1
+455,medios comunicacion produccion audiovisual consultoria tecnologica impresion distribucion,1
+456,compania especializada tic consultoria tecnologica transformacion digital,1
+457,CNAE 2732 cnae,1
+458,mutuas,1
+459,mision atades asistencia integracion personas discapacidad intelectual largo itinerario vital distintos ambitos educativos sociales territorio comunidad autonoma aragon,1
+460,turismo,1
+461,economista,1
+462,servicios colaboracion materia tributaria aapp especial admon local,1
+463,economista colegiada posesion sello responsabilidad social aragon rsa consultora estrategica gestion empresarial organizaciones planificacion estrategica definicion desarrollo despliegue seguimiento modelo negocio sostenible incorporacion cultura responsabilidad social asg ambiental social gobernanza ingles esg modelo negocio mentora emprendimiento gestion coordinacion proyectos digitalizacion transformacion digital formacion presentes futuros emprendedores autonomos empresas formacion nuevas tecnologias mayor especialidad tecnologia blockchain,1
+464,centro tecnologico servicios innovacion empresas,1
+465,cnae federacion empresarios metal zaragoza actividades asociativas actividades organizaciones empresariales profesionales patronales actividades organizaciones empresariales patronales,1
+466,promocion salud mental bienestar emocional poblacion,1
+467,centro formacion continua gestion proyectos educacion formacion,1
+468,investigacion exploracion explotacion recursos minerales,1
+469,sector construccion obra civil produccion aridos asfalto,1
+470,fabricacion hormigon fresco,1
+471,industria carnica secadero jamones paletas,1
+472,formacion formacion vial,1
+473,gestion servicios sociales formacion,1
+474,gestion servicios sociales,1
+475,cluster aragones alimentacion trabaja sector industria transformadora alimentos busca reunir principales agentes economicos vinculados alimentacion aragon cluster aragones alimentacion ambito actuacion colaboracion activa quadruple helice empresas administracion publica centros investigacion entidades sociales realizacion proyectos demostrativos i+d+i,1
+476,manantiales piedra sa empresa familiar dedicada embotellado agua mineral natural hace anos empresa cuenta dos manantiales instalaciones propias ubicadas localidades carinena jaraba segunda conocida calidad aguas minero medicinales declaradas utilidad publica mayor virtud aguas reside proceden manantiales subterraneos gran profundidad entornos protegidos aislados cualquier tipo contaminacion asi proceso natural filtracion permite adquirir minerales pureza caracterizan,1
+477,fabricacion articulos deporte,1
+478,servicios zaragoza capital,1
+479,consultoria marketing direccion comercial desarrollamos servicios tres areas actuacion consultoria marketing gestion comercial diseno grafico creativo tipo soportes comunicacion imagen formacion marketing direccion comercial,1
+480,fines promover desarrollo integral economico social cultural zona actuacion mencionado articulo particular promover participacion iniciativas comunitarias proyectos caracter internacional comunitario nacional regional local sensibilizar administraciones local provincial autonomica nacional instituciones comunitarias europeas objeto optimizar aprovechamiento recursos endogenos zona cara desarrollo armonico integral servir socios centro receptor distribuidor toda informacion relativa campo desarrollo local regional nivel nacional internacional centrandose labor principalmente conocimiento dotaciones recursos proyectos existentes cada momento susceptibles ser llevados cabo asociacion socios posibilitar socios intercambio experiencias metodologias intervencion ambito desarrollo local regional mantener nivel demografico adecuado facilitando caso nuevos asentamientos atendiendo conservacion restauracion medio fisico renovando adecuando estructuras necesarias equiparar condiciones vida personas areas viven poblaciones revalorizar agricultura suscitar nuevas actividades economicas sociales asociacion animo lucro ambito territorial comprende comarcas comunidad calatayud comarca aranda segun estatutos fines actividades participar elaboracion desarrollo ejecucion programas ordenacion promocion recursos naturales humanos favorecer ambito actuacion concertacion intercambio dialogo comunidades rurales fin promover solidaridad propiciar acciones comunes solicitar diputacion general aragon ejecutar caso realizacion programas proyectos relativos desarrollo rural local asociacion podra sostener emprender todas aquellas actividades acciones medidas estime necesarias cumplimiento desarrollo fines,1
+481,intervencion social personas situacion riesgo pobreza exclusion social,1
+482,servicios sociales infancia juventud inclusion social tercera edad,1
+483,orientacion laboral empleo,1
+484,centro desarrollo integral somontano ceder somontano asociacion animo lucro creada ano objetivo impulsar desarrollo somontano barbastro propio territorio formada organizaciones asociaciones estan comprometidas desarrollo territorio representativas diversos ambitos realidad social economica cultural asociacion caracteriza trabajar conjunto territorio comarca somontano barbastro vision global potenciando cohesion territorial actuando diversos sectores participacion diferentes actores territorio entidades administracion local organizaciones empresariales organizaciones profesionales agrarias sindicatos trabajadores asociaciones ciudadanas empresas emprendedores mujeres jovenes,1
+485,economia social,1
+486,sector tecnologias informacion telecomunicaciones,1
+487,comercio recogidarestauracion venta articulos infantiles,1
+488,construccion obracivil extraccion aridos fabricacion hormigon fabricacion mezclas bituminosas construccion exlotacion depuradoras aparcamientos instalaciones energias renovables eolica fotovoltaica transporte materiales obra civil alquiler maquinaria auxiliar explotacion agricola canteras regeneradas promocion inmobiliaria,1
+489,formacion coaching,1
+490,formacion vial formacion transversal,1
+491,franquicia restauracion organizada,1
+492,servicios sociosanitarios centro dia tercera edad,1
+493,sector servicios fidelizacion cliente planes ahorro economia social responsabilidades civicas,1
+494,formacion conductores autoescuela cap mercancias peligrosas,1
+495,artes graficas rotulos material oficina reclamos,1
+496,consultoria privacidad,1
+497,provincial zaragoza,1
+498,intervencion social educacion formal,1
+499,fabricacion material medico quirurgico,1
+500,ensenanza docencia cursos grafologia pericia caligrafica,1
+501,ensenanza conductores profesionales vehiculos pesados actividades formacion relacionadas,1
+502,gestion integral estaciones servicio,1
+503,manipulado vidrio plano decoracion instalacion comercial automocionvitrinas vidrio pintado vidrio laminado,1
+504,consultor empresas areas inteligencia competitiva innovacion estrategia competitividad,1
+505,ensenanzas varias formacion reglada formacion empleo certificados profesionalidad,1
+506,voluntariado personas mayores,1
+507,juventud ocio tiempo libre turismo,1
+508,infancia juventud ocio tiempo libre,1
+509,social actuamos entidades instituciones beneficas sociales facilitando alimentos llegan gran numero beneficiarios finales,1
+510,fundacion apip acam entidad privada caracter social dedicada atencion residencial dia colectivos funcionalidad diversa asistencia orientacion formacion inclusion sociolaboral colectivos situacion riesgo exclusion,1
+511,grupo garrampa empresa integrada dentro sector artes graficas merchandising especializada branding empresarial personalizacion tipo articulos,1
+512,colegio guarderia oklu british baby educacion infantil educacion primaria bachillerato internacional ib,1
+513,educacion reglada,1
+514,formacion vial ensenanza reglada academia idiomas especialidades formativas certificados profesionales,1
+515,fabricacion componentes electronicos circuitos integrados componentes electronicos,1
+516,formacion restauracion,1
+517,cnae fontaneria calefaccion gas,1
+518,operador logistico integral,1
+519,formacion empresas desempleados escolares formacion profesorado homologado dga educacion,1
+520,formacion formacion desempleados formacion empresas formacion escolares,1
+521,industria quimica fabricacion productos quimicos basicos,1
+522,rsc formacion dinamizacion social cultural proyectos europeos erasmus+,1
+523,grupo accion local asi denominado reglamentos ue aglutinar partenariado publico privado sociedad civil cofinanciado mayoritariamente fondos europeos feader ademas autonomicos dga locales dpz comarca ayuntamientos aportaciones privadas restantes asociados objetivo desarrollo rural participativo perspectiva leader impulsando iniciativas surgen mundo rural abajo arriba consiguiente dinamizadores economicos culturales sociales ambito actuacion territorio comarcal ribera alta ebro superficialmente pequeno municipios integran abarca numerosa poblacion joven dinamica supera habitantes importante tejido empresarial,1
+524,economias verde inclusiva economia responsable enmarcadas dentro nueva gobernanza basada participacion ambito nacional iberoamerica,1
+525,cooperacion desarrollo educacion desarrollo sensibilizacion,1
+526,sector social atencion personas paralisis cerebral trastornos afines provincia huesca,1
+527,fabricacion productos descanso colchones somieres bases almohadas,1
+528,empresa insercion,1
+529,ad hoc gestion cultural empresa dedicada creacion produccion realizacion proyectos turisticos culturales cuenta mas anos experiencia realizacion tipo servicios medida calidad creatividad compromiso cliente senas identidad principales ambitos trabajo siguientes coordinacion planificacion gestion proyectos culturales turisticos ad hoc trabaja proyectos entendiendo gestion concepcion mas global direccion administracion planificacion gestion recursos humanos proveedores coordinacion gestion economica gestion marketing comunicacion seguimiento evaluacion proyecto nacimiento finalizacion diseno produccion ejecucion eventos ad hoc concibe eventos culturales congresos ferias espectaculos actividades animacion lectura herramienta comunicacion difusion trabajo valores clientes formacion coaching consultoria cultural turistica amplia experiencia formacion sectores turistico cultural ad hoc impartido mas horas lectivas diferentes colectivos clientes federacion aragonesa municipios comarcas provincias famcp araforem fundacion aragonesa formacion empleo ugt universidad zaragoza ayuntamiento zaragoza comarca jacetania diseno produccion exposiciones museos diseno grafico compromiso arte cultura llevado realizar numerosas exposiciones didacticas planes museograficos proyectos expositivos,1
+530,ensenanzas varias formacion reglada formacion empleo,1
+531,consultoria administraciones publicas empresas,1
+532,compra mayor aparatos electrodomesticos,1
+533,formacion online consultoria vinculada formacion,1
+534,autoescuelas formacion conductores formacion transporte industria,1
+535,laboratorio especializado genetica clinica forense cuya finalidad acercar diagnostico genetico especialista paciente gracias anos experiencia ofrece servicio fiable analisis interpretacion resultados apoyar toma decisiones ademas analisis geneticos muestras biologicas realiza asesoramiento servicio laboratorios investigacion desarrollo campo biologia molecular,1
+536,tercer sector accion social servicios sociales ambito actuacion comunidad autonoma aragon,1
+537,principalmente educativo formativo tareas innovacion sector educativo industrial relaciones empresas cinturon industrial zaragoza intercambio educativo formativo ambito internacional,1
+538,formacion desarrollo integracion personal socio laboral personas riesgo exclusion parte actuacion dedicada mujeres personas discapacidad trabajo focaliza manera especial medio rural,1
+539,adibama centro desarrollo rural ambito actuacion comarcas bajo martin andorra sierra arcos,1
+540,sector servicios sociales dependencia personas mayores ayuda domicilio teleasistencia centros dia pisos tutelados residencias,1
+541,sector motor principalmente vehiculos ruedas cuadriciclos,1
+542,investigacion innovacion transferencia conocimiento biomedicina,1
+543,automocion empresa tinkervan slu compania especializada transformacion vehiculos inicios remontan ano objetivo claro ser pionera desarrollo equipamientos personalizados vehiculos mixtos sirvan dia dia tambien solucion ocio condenando vehiculo solo usos construimos proyectos base tecnologica camperizacion transformacion vehiculos vivienda adaptando casi cualquier vehiculo mercado siempre bajo dos premisas fundamentales crecimiento sostenible ligado respeto medio ambiente apuesta clara tecnologia innovacion,1
+544,servicios educacion,1
+545,ingenieria consultoria tecnica servicio ingenieria mecanica basado tres pilares fundamentales diseno mecanico prototipado rapido fabricacion componentes funcionales ello manera eficiente personalizada trabajamos tipo sectores disenando mecanismos objetos amplio abanico necesidades sector industrial realizando disenos tipo aplicaciones industriales moldes utillajes componentes maquinaria pesada tambien automocion tipo maquinaria sector agricola realizamos disenos oleohidraulicos neumaticos diseno estandar aplicaciones especiales,1
+546,consultoria normas iso calidad medioambiente seguridad salud trabajo igualdad seguridad informacion etc adaptacion legislacion proteccion datos registro marca protocolo prevencion acoso planes igualdad,1
+547,fundacion inclusion caritas diocesana zaragoza creado empresa insercion trapo zaragoza slu gestionar proyecto recogida reutilizacion ropa donada integrar proceso cadena valor recogida ropa contenedores medios transporte almacen almacenamiento seleccion higienizacion transporte tiendas donacion necesidades sociales venta entidades venta publico puntos venta moda re,1
+548,desarrollo fabricacion comercializacion dispositivos microfluidicos cultivo celular entorno biomimetico,1
+549,desarrollo materiales industriales ecologicos,1
+550,fabricacion productos farmaceuticos base desarrollo software propio,1
+551,investigacion desarrollo aplicados neurociencia neurotecnologia,1
+552,servicios profesionales consultoria gestion,1
+553,defensa intereses generales industria comercio servicios desarrollo funciones publico administrativas encomendadas ley prestacion servicios empresas,1
+554,excavaciones demoliciones obra civil servicios industriales maquinaria obras publicas,1
+555,sector servicios turismo hosteleria,1
+556,CNAE 4532 cnae venta distribucion recambios autobuses autocares,1
+557,fisioterapia,1
+558,sector construccion actividad tratamiento recubrimiento mediante pintura industrial metalizado superficies,1
+559,agencia colocacion formacion aragon,1
+560,separacion clasificacion materiales,1
+561,desarrollo soluciones roboticas,1
+562,empresa pertenece sector terciario servicios sector salud clinica especializada ortodoncia,1
+563,fabricacion papel carton ondulado,1
+564,CNAE 2550 cnae,1
+565,gestion espacio zity ubicado recinto ferial valdespartera zaragoza fiestas pilar celebran principios octubre,1
+566,fabricacion productos elastomero poliuretano,1
+567,farmacia,1
+568,fabricacion herrajes accesorios puertas,1
+569,intermediarios comercio productos diversos actividades profesionales cientificas tecnicas consultoria gestion empresarial,1
+570,regional aragon,1
+571,servicios diseno espacios interiores distintos tipos uso domestico comercial hosteleria restauracion ambito privado publico,1
+572,comercio productos agroalimentarios,1
+573,agencia viajes turismo activo,1
+574,fabricacion productos plasticos,1
+575,consultoria diseno servicios experiencia usuario,1
+576,instalaciones electricas alta baja tension diseno desarrollo cuadros electricos cuadros mando automatas programables instalaciones industriales montaje instalacion fibra optica red datos instalaciones aire comprimido instalaciones frio calor climatizacion instalaciones proteccion incendios instalacion tipo fluidos mecanica industrial mantenimiento industrial instalaciones atex,1
+577,promotora igualdad diversidad,1
+578,financiero,1
+579,promocion inmobiliaria promocion venta alquiler oficinas locales comerciales produccion energia limpia,1
+580,transporte maritimo,1
+581,ingenieria fabricacion instalacion energias renovables convenio siderometalurgica zaragoza,1
+582,gestion ciclo integral agua,1
+583,ensenanza idiomas reglada,1
+584,diseno impresion d industrial,1
+585,actividad engloba dentro sector metal dando soporte autonomos empresas necesitan trabajos electroerosion penetracion haciendo diseno mecanizado electrodo erosion pieza maquina electroerosion penetracion permite sacar superficies geometrias complejas gran precision manera podrian obtenerse fundamentalmente realizo trabajos moldes matrices sacando zonas figura ajuste funcion especificaciones cliente cabe destacar maquina posibilidad trabajar materiales tratados cementado carburado nitrurado carbonitrurado templados etc adicionalmente tambien realizo tipos trabajos mas comunes chaveteros chaveteros ciegos interiores romper machos brocas roscas,1
+586,educacion ingenieria,1
+587,industrial fabricacion pieza tecnica linea blanca automocion,1
+588,agropecuaria pirineo desarrolla actividad sector ganadero intensivo porcino realizando todas fases mismo crianza cerdas verracos alta genetica cebo lechones cebones produciendo piensos necesarios animales propia fabrica cuenta equipo veterinarios ingenieros tecnicos control produccion piensos salud bienestar animales forma parte grupo empresarial planta despiece navarra,1
+589,alquiler venta material maquinaria construccion comercio metal,1
+590,consultoria legal empresas entidades,1
+591,confiterias fruterias verdad saben ponernos denominamos comercio regalos artesanales saludables unicos,1
+592,servicios nutricion deportiva,1
+593,cocemfe aragon actua sector social especificamente ambito discapacidad fisica organica principal objetivo promover defender derechos personas discapacidad trabajando mejorar calidad vida conseguir plena inclusion social laboral cuanto ambito actuacion enfoca varias areas clave asesoramiento entidades ofrecen apoyo integral entidades asociadas temas subvenciones gestion proyectos legislacion etc accesibilidad asesoran diseno universal promueven igualdad oportunidades personas discapacidad aragon terapia psicologica brindan servicios apoyo psicologico personas discapacidad familias formacion organizan talleres cursos adaptandose necesiades demandas entidades personas discapacidad familiares,1
+594,proteccion incendios sistemas seguridad,1
+595,fabricacion estructuras metalicas construccion completa obras civiles,1
+596,sector ornanizacion gubernamenta ambito actuacion local provincial nacional internacional,1
+597,sector publico gestion tipo infraestructuras publicas prestacion servicios agroambientales,1
+598,sanitario autonomico,1
+599,servicios sociales punto encuentro familiar,1
+600,asociacion neuroeduca centro neuropsicologia psicologia educacion ninos ninas adolescentes anos epigrafe actuacion servicios sanitarios,1
+601,gestion cultural educacion,1
+602,ingenieria arquitectura calidad ambiental,1
+603,entidad financiera,1
+604,servicios empresas instalaciones montajes electricos,1
+605,empresa dedicada industria madera fabricacion medida mobiliario principalmente comercios arquitectos interioristas decoradores menos particulares directamente,1
+606,fabricacion maquinaria industrial prensas cizallas molinos fragmentadoras procesar residuos metalicos,1
+607,escuelas serv perfecc deporte,1
+608,sector vitivinicola,1
+609,limpieza,1
+610,CNAE 6201 CNAE 9102 CNAE 9103 CNAE 9104 CNAE 4110 CNAE 5229 CNAE 2620 cnae programacion consultoria actividades relacionadas informatica cnae actividades museos cnae gestion lugares edificios historicos cnae actividades jardines botanicos parques zoologicos reservas naturales cnae promocion inmobiliaria cnae actividades anexas transporte cnae fabricacion ordenadores equipos perifericos,1
+611,servicios tecnologicos,1
+612,formacion reglada tecnologia,1
+613,diseno desarrollo soluciones productos acero hormigon industria construccion,1
+614,metal codigo actividad tipo actividad empresarial iae,1
+615,inyeccion plastico,1
+616,fabricacion bebidas energeticas refrescos,1
+617,proporcionamos empresas despachos profesionales software necesario optimizar procesos gestion empresarial forma resolver retos enfrentarse diariamente cada negocio decir ayudamos transformar digitalmente negocios adicionalmente disenamos paginas web rgpd servicios hardware,1
+618,sector social red aglutina entidades aragonesas trabajan inclusion social,1
+619,damos servicio personas discapacidad fibrosis quistica patologias respiratorias similares comunidad autonoma aragon,1
+620,consultoria social,1
+621,economia social incidencia politica incidencia publica,1
+622,artistico cultural social,1
+623,ingenieria arquitectura medio ambiente peritaciones,1
+624,formacion atencion colectivos riesgo exclusion,1
+625,seguros productos financieros,1
+626,asesoramiento fiscal juridico laboral contable,1
+627,CNAE 4322 cnae fontaneria climatizacion pci gas biogas calderas enfriadoras salas bombas sistema riegos infraestructura hidraulicas fotovoltaicas,1
+628,sector sanitarios servicios odontologicos,1
+629,fabricacion material equipo electrico,1
+630,marketing comunicacion digital,1
+631,fabricacion maquinaria agricola,1
+632,sector servicios industriales logisticos alcance nacional,1
+633,almacenamiento distribucion productos agroalimentarios envasador productos origen animal,1
+634,fabricacion productos carnicos,1
+635,mejora calidad vida personas enfermedad mental familias asi sensibilizacion divulgacion salud mental dirigido poblacion general,1
+636,movilidad sostenible,1
+637,promocion inmobiliaria,1
+638,financiero promocion desarrollo industrial,1
+639,comercial productos sector ganadero agricola agroindustrial diseno interior gestion montaje instalaciones ganaderas nutricion sanidad animal vegetal gestion ambiental incluye servicios ddd legionella control agua gestion documental,1
+640,sanitario atencion residencial sanitaria social personas dependientes,1
+641,termoconformado plastico fabricacion embalajes madera servicios,1
+642,turismo activo conduccion guiado personas medio natural rafting piraguismo descenso barrnancos senderismo via ferrata multiaventura,1
+643,consevas vegetales,1
+644,cooperacion desarrollo sensibilizacion formacion,1
+645,instalaciones industriales construccion,1
+646,elaboracion chocolate artesano certificado agricultura ecologica comercio justo,1
+647,atencion discapacitado auditivo zaragoza provincia,1
+648,centro especial empleo,1
+649,produccion fabricacion comercializacion semillas,1
+650,fabricacion comercializacion electrodomesticos,1
+651,fabricacion comercializacion piensos compuestos animales,1
+652,gestor cadena suministro tier,1
+653,socio sanitario salud mental discapacidad intelectual envejecimiento,1
+654,organizacion articula actividades generacion distribucion comercializacion incluyendo cada actividad electricidad caso gas dadas actividades dedican sociedades dependientes endesa sa transacciones cuentan caracter ciclico estacional significativo mercados principales endesa realiza actividades generacion distribucion comercializacion electricidad principalmente espana portugal menor medida plataforma espana portugal comercializa electricidad gas mercados europeos particular alemania francia paises bajos asi comercializacion productos servicios relacionados negocio principal continuacion describen mercados actividades desarrolla endesa mercado espana generacion electricidad endesa desarrolla actividad generacion electrica territorio peninsular territorios peninsulares comprendiendo ultimos territorios insulares baleares canarias ciudades autonomas ceuta melilla territorio peninsular actividad generacion convencional renovable caracter actividad liberalizada pudiendo contar ultima retribucion especifica parte generacion convencional territorios peninsulares tratamiento singular atendiendo especificidades derivadas ubicacion territorial siendo retribucion regulada generacion procedente energias renovables territorios peninsulares incentivos inversion reduccion costes generacion comercializacion electricidad gas productos servicios actividad comercializacion consiste venta energia mercado asi venta productos servicios cliente comercializacion actividad liberalizada distribucion electricidad actividad distribucion energia electrica objetivo llevar electricidad puntos consumo distribucion caracter actividad regulada mercado portugal generacion electricidad actividad generacion electricidad portugal lleva cabo entorno competitivo comercializacion electricidad gas productos servicios actividad caracter liberalizado portugal consiste venta energia mercado asi venta productos servicios cliente,1
+655,CNAE: 2932 cnae fabricacion componentes piezas accesorios vehiculos motor,1
+656,cooperativa agricola fabrica piensos alimentacion animal,1
+657,distribucion maquinaria venta productos quimicos,1
+658,centro sociosanitario area psicologia area trabajo social expertos intervenciones asistidas animales terapeuticas educativas sociales ludicas formacion octubre lanzamos segunda marca llamada mr hueso fabricacion distribucion materiales paseo perros formacion asesoramiento educacion animal,1
+659,empresa pertenece metal punto vista convenio colectivo realidad ligados sector automocion,1
+660,fabricacion protecciones solares edificacion,1
+661,educacion imparticion formacion reglada reglada,1
+662,objetivos sociedad san vicente paul ssvp siguen siendo aquellos inspiradores fundadores compromiso personal espiritu justicia solidaridad voluntad actuar sociedad dentro mejorarla sectores intervencion ssvp ido cambiando tiempos propia evolucion social hoy consejo zona zaragoza encuentra presente siguientes ambitos actuacion familia infancia personas origen extranjero personas mayores minorias etnicas personas situacion vulnerabilidad social,1
+663,formacion reglada formacion idiomas,1
+664,ingenieria proyectos estudios direccion obras,1
+665,diseno instalacion mantenimiento sistemas climatizacion calefaccion ventilacion refrigeracion procesos termicos industriales cpds salas blancas sistemas energias renovables geotermia biomasa placas solares absorcion automatizacion gestion instalaciones servicios energeticos,1
+666,turismo salud,1
+667,servicios empresas autonomos particulares asesoria contable fiscal laboral especialistas creacion empresas,1
+668,terciario educacion,1
+669,centros servicios atencion personas situacion dependencia,1
+670,educacion superior formacion integral calidad mediante docencia transferencia investigacion fundamentadas participacion activa estudiantes proceso formativo solo terrminos adquisicion conocimientos sino atendiendo desarrollo persona actitudes competencias capacidades habilidades responsabilidad profesional ciudadano,1
+671,organizacion empresarial ambito provincial,1
+672,diseno fabricacion valvulas,1
+673,sector iluminacion,1
+674,mutuas colaboradoras seguridad social,1
+675,fundacion picarral centra actividad realizar labor formativa educativa calidad favorezca insercion sociolaboral personas especialmente jovenes diferentes razones quedado proceso regular integracion social siendo ademas herramienta util conjunto sociedad promoviendo ejercicio efectivo ciudadania plena,1
+676,fabricacion mobiliario hogar clinico,1
+677,produccion transformacion comercializacion ovino,1
+678,actividades organizaciones empresariales caracter autonomico aragon,1
+679,sector multisectorial ambito principal desarrollado principalmente comarca ribera baja ebro amplitud segun estatutos abarca toda comunidad autonoma,1
+680,servicios publicos agencia desarrollo ayuntamiento ejea caballeros,1
+681,promocion iniciativas empresariales industriales servicios avanzados consideren innovadoras bien procesos fabricacion productos entorno vaya desarrollar dicha actividad empresarial logro objeto principal sociedad ofertara temporalmente iniciativas empresariales innovadoras unas instalaciones adecuadas desarrollo inicial empresas facilitando servicios comunes gestion asesoramiento asi todas operaciones accesorias manera directa antecedente consecuencia objeto principal,1
+682,metal fabricacion juntas estanqueidad motores pantallas termicas,1
+683,agencia desarrollo regional,1
+684,ingenieria civil consultoria,1
+685,instalaciones montajes electricos,1
+686,sector agroalimentario actividad fabricacion comercializacion mermeladas rellenos fruta frutas verduras confitadas frutas almibar fabricamos productos agroalimentarios destino industria distribucion marcas taisi conservas falaguera,1
+687,actividades recreativas entretenimiento,1
+688,comercio ocio,1
+689,asesoria fiscal laboral contable empresas autonomos,1
+690,arquitectura promocion inmobiliaria,1
+691,suministro mayor productos laboratorio hospitales,1
+692,promocion inmobiliaria proyectar construir conservar explotar promocionar misma traves terceras personas plataforma logistica zaragoza particular infraestructuras equipamientos comprendidos misma asi servicios puedan instalarse desarrollarse dichas infraestructuras equipamientos,1
+693,CNAE 3822 tratamiento eliminacion residuos peligrosos cnae,1
+694,empresa publica gobierno aragon cuya actividad circunscribe sector turistico,1
+695,CNAE 6610 entidades financieras cnae,1
+696,consultoria comercio exterior,1
+697,holding publico empresarial,1
+698,parque tecnologico walqa objeto social promocion gestion explotacion adquisicion edificaciones complementarias ubiquen parque tecnologico walqa asi venta cesion adjudicacion cualquier titulo parcelas terrenos propiedad sociedad mediante captacion asentamiento mismo empresas entidades investigacion innovacion desarrollo produccion singular tecnologia aplicada preferentemente sector tecnologias informacion comunicacion misma manera tambien podra dedicar actividad formacion personal ambitos actividad empresarial,1
+699,automocion sociedad gestora parque tecnologico realiza labores inmobiliarias principalmente arrendamiento edificios propios venta terrenos,1
+700,sector financiero ibercaja entidad volumen activos sistema financiero espanol,1
+701,fabricacion venta especialidades farmaceuticas soluciones intravenosas uso hospitalario,1
+702,asesoria empresas agencia publicidad,1
+703,ingenieria arquitectura consultoria,1
+704,tic electronica telecomunicaciones,1
+705,asociacion animo lucro objetivo fundamental promover contribuir competitividad sector salud aragon poder afrontar favorablemente globalizacion mediante impulso innovacion asociados mejora condiciones entorno sector,1
+706,sector textil actividad fabricacion cesped artificial,1
+707,gestion integral residuos demolicion,1
+708,construccion instalaciones electricas,1
+709,CNAE 7490 cnae actividades profesionales cientificas tecnicas ncop,1
+710,consultoria sistemas gestion normativos,1
+711,% construccion impermeabilizaciones rehabilitaciones ingenieria civil piscinas servicio diagnostico gestion integral elementos contaminados amianto friable friable %limpieza especializada mantenimientos limpiezas hidrolimpiadora chorreo silicato aluminio,1
+712,distribucion productos sanitarios,1
+713,instalaciones electricas baja tension instalaciones interiores suministro agua instalaciones termicas edificios instalaciones frigorificas instalaciones aparatos presion instalaciones sistemas proteccion incencios instalaciones lineas electricas alta tension centrales electricas subestaciones centrales transformacion,1
+714,transitaria agente aduanas actividades anexas transporte,1
+715,algontec dedica desarrollo produccion componentes industria automovil basados tecnologia soplado tecnico materiales plasticos,1
+716,centro especial empleo autorizado gestor residuos peligrosos peligrosos comunidad autonoma aragon,1
+717,desarrollo produccion comercializacion bioconservadores maquinaria elementos inseminacion artificial ganado porcino,1
+718,servicios ganaderia gestion purines porcinos,1
+719,biotecnologia,1
+720,quimica basica centro ercros sabinanigo primer productor europeo cloroisocianuratos tratamiento agua piscinas fabrica mas siglo historia fabricas mayor tradicion tejido empresarial espanol actividad articula alrededor fabricacion cloro sosa derivados aplicaciones sectores textil alimentario detergentes agricola papelero mas mitad produccion destina exportacion primer productor espanol clorato sodico utilizado principalmente blanqueo pasta papel elaboracion productos fitosanitarios jardineriatambien primer productor europeo cloroisocianuratos uso generalizado tratamiento agua piscinas parte produccion linea productos dirige mercado industrial envases gran tamano bajo correspondiente nombre quimico destina mercado profesional comercializandose bajo marcas delsa® azuli® pisipur® bajo marca propia cliente cloro derivados producidos fabrica obtienen proceso celdas membrana procedimiento tecnologicamente mas avanzado mas respetuoso medio ambiente centro tambien ubica departamento i+d division quimica basica plasticos fabrica monzon centra actividad produccion compuestos pvc torno % produccion destina satisfacer demanda mercado nacional centro ubica departamento i+d division plasticos compuestos pvc fabrican multiples aplicaciones construccion perfiles puertas ventanas tuberias mangueras accesorios films cables suelos recubrimientos persianas pinturas masillas envases embalajes industria alimentaria farmaceutica cosmetica impermeabilizacion laminas juntas usos medicos hospitalarios usos suelas calzado enchufes cajas electricas segundo productor nacional noveno nivel europeo compuestos pvc,1
+721,instalacion mantenimiento sistemas seguridad intrusion cctv pci ccaa,1
+722,consultoria estrategica consultoria marketing formacion,1
+723,arqueologia medio ambiente,1
+724,empresa educacion ambito idiomas mas anos experiencia tiempo desarrollado metodologia ensenanza propia garantiza exito alumnos contrato expertos organizacion programas idiomas academicos extranjero new link education empresas mayor reputacion sector miembros aseproce actividad auditada anualmente lloyds register cuya ultima revision obtuvimos puntos clientes encuentran ministerio educacion ciencia consejerias educacion buen numero ccaa ayuntamientos empresas colegios toda espana,1
+725,venta comercio mayor repuestos automocion,1
+726,informatica desarrollo software,1
+727,agencias publicidad servicios publicidad relaciones public,1
+728,consultoria integral tecnologica microsoft dynamcis business central nutrinav software agroalimentario rutanav software distribucion adages software industrial,1
+729,importacion exportacion elaboracion pescado productos mar,1
+730,tic informatica internet comunicaciones,1
+731,sector metal empresa industrial fabricante vehiculos cisterna mejora medio ambiente energia maquinaria agricola,1
+732,distribucion producto quimico gestion residuos consultoria ambiental tratamiento aguas agricultura obra civil,1
+733,custom retail nuevas tecnologias,1
+734,prefabricados hormigon,1
+735,sector metalurgico actividad empresa reciclaje aluminio fabricacion lingotes partir chatarras desperdicios aluminio,1
+736,accion social educativa,1
+737,ambito social,1
+738,consultoria organizacion formacion,1
+739,trabajadores autonomos ccaa aragon,1
+740,empresarial,1
+741,cultural social,1
+742,transporte mercancia granel solidas liquidas carretera,1
+743,formacion formacion reglada formacion empleo,1
+744,automocion industria auxiliar automovil ensamblaje estructuras metalicas linea perfilado automocion,1
+745,asesoramiento empresas proteccion datos seguros productos financieros formacion profesionales prevencion riesgos laborales asesoramiento fiscal laboral eficiencia energetica,1
+746,sector construccion ingenieria civil,1
+747,promocion desarrollo servicios materia accion social,1
+748,automatizacion robotica,1
+749,ingenieria fabricacion maquinaria diseno fabricacion montaje puesta marcha mantenimiento auditoria sistemas lubricacion tecnologia fluidos,1
+750,diseno desarrollo fabricacion ejes remolques maquinaria agricola industrial cilindros hidraulicos chasis semirremolques aluminio compactadores residuos solidos urbanos comercializacion distribucion suspensiones componentes accesorios remolques maquinaria agricola industrial neumaticos ruedas montadas agricolas industriales camion componentes hidraulicos,1
+751,instalaciones electricas baja alta tension,1
+752,nuevas tecnologias internet cosas,1
+753,consultoria responsabilidad social igualdad empresa organizaciones,1
+754,ambito territorial asociacion realiza principalmente actividades principalmente local actividad alcanza propio termino municipal zaragoza ajustando preferentemente actividades defensa intereses vecinos as zaragozano barrio fuentes asimismo tambien desarrollan actividades ambitos niveles superiores provincial regional nacional internacional asociacion civitas fuentes nacio hace anos finalidad canalizar aquellas cuestiones sociales servicios afectan habitantes distrito fuentes fin procurar soluciones permitan generar mantener adecuada calidad vida vecinos as fomentando participacion intercambio opiniones permitieran evidenciar fondo problemas asi proponer mejores soluciones posibles ello asociacion civitas trabajado tiempo generar espacios dialogo convivencia vecinos vecinas ambito geografico senalado entidad involucrado primer momento nacimiento vida distrito colaborando participando actividades existian posteriormente desarrollando proyectos reforzaran vida social consecuentemente percibiendo necesidades problemas afectan residentes convirtiendose lugar recepcion aquellas cuestiones preocupan ciudadanos ciudadanas,1
+755,desarrollo implantacion energias renovables,1
+756,voluntariado accion intervencion social animacion comunitaria sensibilizacion,1
+757,construccion rehabilitacion sostenible construccion industrializada modular,1
+758,actividades consultoria comunicacion formacion,1
+759,diseno proyectos ejecucion instalaciones mantenimiento tramitacion legal sistemas aire comprimido refrigeracion procesos industriales climatizacion ventilacion industrial descalcificacion tratamiento legionella,1
+760,metal fabricacion maquinaria acero carbono inoxidable industria quimica alimentaria,1
+761,empresa dedicada fabricacion rehabilitacion instalacion mobiliario medida,1
+762,actividades juridicas proteccion datos,1
+763,ley julio creacion colegio profesional fisioterapeutas aragon articulo ambito actuacion establece ambito territorial colegio fisioterapeutas sera comunidad autonoma aragon,1
+764,CNAE 4322 cnae instalaciones fontaneria calefaccion gas climatizacion energias renovables,1
+765,fabricacion palets cajas contenedores plastico especializados inyeccion plasticos gestion residuos plasticos peligrosos,1
+766,hosteleria hotel,1
+767,ambito geografico fundamentalmente aragon aunque actividades centro estudios despoblacion desarrollo areas rurales contienen determinacion geografica especifica,1
+768,estudiantil,1
+769,comercio servicios ambito local comarcal,1
+770,sociosanitario aragon,1
+771,consulados honorarios mexico espana,1
+772,asociacion franquiciadores aragon sucursales nivel local nacional internacional siendo sede zaragoza,1
+773,mantenimiento reparacion instalaciones climatizacion instalacion reparacion piscinas,1
+774,constituida sociedad mercantil responsabilidad limitada capital integramente municipal personalidad juridica propia cumplimiento fines pertenece ayuntamiento zaragoza promueve gestion centra actuacion dar respuesta activar soluciones demandas necesidades relacion alojamiento producen zaragoza objeto sociedad municipal zaragoza vivienda slu metas orientan actividad art estatutos lograr mayor eficacia accion municipal fomento rehabilitacion urbana vivienda edificaciones urbanizacion suelo lograr revitalizacion integral zonas degradadas asi reduccion consiguiente precios venta arrendamiento solares edificables edificaciones resultantes,1
+775,ingenieria automatizacion industrial fabricacion maquinaria,1
+776,venta instrumentos musicales libros partituras alquiler venta pianos concierto reparacion mantenimiento instrumentos musicales,1
+777,elaboracion cafe infusiones,1
+778,CNAE 3103 inscritos cnae fabrica mobiliario metalico fabricacion colchones actividad sector descanso dentro sector metalurgico inicialmente empresa dedicaba fabricacion somieres bases tapizadas mediante perfiles hierro actualmente dedicamos fabricacion comercializacion equipos descanso empresas distribuidores venta publico,1
+779,agroalimentaria,1
+780,sya instalaciones empresa dedicada fontaneria calefaccion mantenimiento aparatos gas obra civil ingenieria tecnica realizacion proyectos realizamos trabajos mantenimiento instalaciones canalizacion instalacion usuarios depositos empresas gasistas mas importantes nivel nacional,1
+781,gestion transporte gases licuados petroleo glp envasados,1
+782,artesania ceramica realizo objeto diseno utilitario escultura talleres ceramica adultos ninos,1
+783,agropecuario apicola senderismo,1
+784,subcontratacion electronica,1
+785,empresa logistica mueble nuevo incluyendo almacenaje entrega tiendas particulares domicilio,1
+786,sector formacion imparticion programas desarrollo soft skills habilidades blandas personales competencias transversales bienestar alto rendimiento programas transformadores basados mindfulness inteligencia emocional pnl neurociencias desarrollamos actividad impartiendo conferencias cursos talleres clases grupales sesiones individuales programas especificos estan dirigidos ambito empresas organizaciones asi ambito educacion salud desarrollo personal programas pioneros desarrollan capacidades especificas areas clave liderazgo consciente gestion eficaz tiempo comunicacion efectiva productividad claves mentalidad exito desarrollo resiliencia prevencion reduccion estres alto rendimiento desarrollo autoconfianza automotivacion inteligencia emocional resolucion problemas toma deciciones gestion conflictos,1
+787,aeronautica telecomunicaciones,1
+788,fabricacion carpinteria metalica,1
+789,fabricacion envases plasticos uso alimentario,1
+790,consultoria formacion desarrollo habilidades personales equipos trabajo coaching personal ejecutivo,1
+791,facilitacion procesos participativos,1
+792,recuperacion reciclado materias primas secundarias,1
+793,provincial,1
+794,sector empresarial sector hosteleria toda provincia teruel,1
+795,comercio mayor menor combustibles,1
+796,electro mecanica vehiculo industrial,1
+797,industrial siderometalurgia,1
+798,sociedad docente marcada especializacion organizacion gestion servicios deportivos culturales animacion,1
+799,fabricante cables fibra optica componentes opticos pasivos,1
+800,alimentacion harinero semolero,1
+801,abogacia asesoria legal,1
+802,turismo guias barrancos montana,1
+803,biotecnologia diagnostico fabricacion especialidades farmaceuticas,1
+804,ambito local ambito nacional contamos menores rioja centro proteccion menores estableciendo relaciones distintos servicios ccaa sector primario sector terciario sector cuaternario,1
+805,federacion empresarial hosteleria,1
+806,fsg trabajamos promocion integral personas gitanas enfoque multidisciplinar areas trabajamos empleo fundacion secretariado gitano incorporacion empleo clave lucha exclusion social discriminacion situamos junto personas tratando dar respuesta necesidades favoreciendo acceso mercado laboral educacion centramos gran parte esfuerzos promocion educativa comunidad gitana niveles todas edades educacion pilar basico desarrollo personas elementos favorece inclusion social igualdad oportunidades vivienda actuaciones desarrolladas fsg siguen misma linea estrategica favorecer acceso comunidad gitana vivienda digna contexto inclusivo normalizado inclusion social comunidad gitana minorias etnicas europeas significativo numero familias continuan sumidas situaciones exclusion social sometidas procesos discriminacion limitan ejercicio derechos acceso recursos servicios disfrutan resto ciudadanos ciudadanas europeas ello desarrollamos programas faciliten inclusion social salud fomentamos ponemos marcha programas mejorar salud comunidad gitana juventudcontribuimos promocion juventud gitana poniendo marcha actividades faciliten participacion social atiendan desarrollo personal doten herramientas permitan ejercer ciudania activa igualdad trato departamento igualdad lucha discriminacion objetivo impulsar igualdad trato discriminacion comunidad gitana traves diversos ejes trabajo enfoque derechos humanos genero desarrollando acciones apuestan discriminacion promocion integral minoria especial hincapie mujeres gitanas igualdad generola fsg trabaja promocion igualdad oportunidades genero comunidad gitana incidiendo propias capacidades mujeres autonomia toma decisiones ambito publico privado sirvan referente toda comunidad asi transversalizar perspectiva genero programas fsg incidencia defensa derechos objetivo temas afectan comunidad gitana esten presentes agenda politica parlamentaria comunicacionlos estudios realizados demuestran imagen social transmite traves medios comunidad gitana basada frecuentemente estereotipos negativos impiden conocimiento real diversidad gitanos gitanas prioritario trabajar herramientas comunicacion sensibilizacion social contrarresten imagen forma contundente rigurosa promocion culturala comunidad gitana cultura cuatro grandes piezas formado enriquecido cultura espanola junto cristiana arabe judia arte literatura lengua comercio musica razon necesario celebremos reconozcamos existencia cultura gitana aportacion cultura espanola voluntariado entidad generar espacios convivencia intercultural intergeneracional exitosas objetivo clave podremos alcanzar gracias colaboracion personas voluntarias,1
+807,sector socio sanitario almai+ servicios integrales cuidadores enfermos cancer,1
+808,sector metal actividades comercializacion logistica productos siderurgicos asi produccion transformacion productos metalicos mediante operaciones mecanizado corte plegado punzonado soldadura tratamiento superficial mediante granallado pintura liquida,1
+809,manufactura vidrio plano,1
+810,tratamientos agua,1
+811,comercializacion material electrico,1
+812,diseno desarrollo innovacion fabricacion componentes seguridad ascensores,1
+813,sector agricultura industria alimentaria venta fertilizantes ecologicos materias primas animales alimentacion perros gatos,1
+814,regalo promocional merchandising,1
+815,mantenimiento industrial mantenimiento agricola obra civil estructura carpinteria metalica caldereria instalacion puertas automaticas,1
+816,espana consultoria ingenieria internacional servicios inspeccion ensayos certificacion,1
+817,servicios diseno grafico diseno web branding posicionamiento seo optimizacion web gestion redes sociales fotografia redes socailes entorno web,1
+818,actividades programacion informatica explotacion electronica cuenta terceros,1
+819,CNAE: 2592 cnae industria metalgrafica fabricacion envases embalajes metalicos ligeros,1
+820,CNAE 4321 instalaciones bombeo solar fotovoltaico energias renovables codigo cnae instalaciones electricas,1
+821,comercio mayor equipos electronicos telecomunicaciones componentes,1
+822,integracion socio laboral personas discapacidad servicios integrales empresas cee calificado actividades limpieza lavanderia servicios administrativos recepcion servicios gestoria consultoria agencia comunicacion,1
+823,sistemas informaticos sistemas gestion informacion erp consultoria sistemas gestion,1
+824,sector industrial especifico energias renovables,1
+825,sostenibilidad sinergias soluciones industria sociedad venta equipos maquinaria industria,1
+826,construccion obra civil,1
+827,vinos somontano,1
+828,fabricacion contenedores metalicos maquina especial mecanizados,1
+829,transporte montaje cultural,1
+830,ambito nacional fundacion civica comunitaria social cultural empresarial,1
+831,ensenanza idiomas asesoramiento linguistico coaching ejecutivo,1
+832,grupo cooperativo ganadero,1
+833,sector tic legal actividades areas negocio tic mantenimiento informatico ciberseguridad redes servidores legal adaptacion reglamento general proteccion datos creacion planes igualdad canal denuncias compliance protocolos acoso marketing diseno web comercio electronico marketing online ofiline software implantacion soluciones gestion erp epson distribucion sat soluciones epson soluciones coste copia,1
+834,consultoria desarrollo tecnologico,1
+835,docencia instituciones empresas colectivos sociales,1
+836,fabricantes abonos fertilizantes bioestimulantes fitofortificantes protectores ecologicos productos agricultura,1
+837,construccion transporte gestion residuos,1
+838,industrial automocion,1
+839,consultoria tecnica,1
+840,diseno fabricacion maquinaria alimentacion ganaderia,1
+841,sector metal deformacion varilla,1
+842,fabricacion moldes soplado inyeccion plastico zamak aluminio,1
+843,formacion profesorado educacion universitaria,1
+844,establecimientos hoteleros,1
+845,sensores vision artificial enfocados principalmente sensores triangulacion laser guiado soldadura,1
+846,logistica transporte,1
+847,ingenieria industrial,1
+848,fundacion desarrollara actividades principalmente comunidad autonoma aragon,1
+849,produccion comercializacion productos alimentacion,1
+850,gestion desarrollo proyectos caracter social ambiental,1
+851,reparacion mantenimiento aeronautico espacial,1
+852,comercio mayor articulos hogar menaje cocina,1
+853,sector energetico actividad distribucion energia electrica ciudad barbastro electrica barbastro sa comercializacion energia electrica gas nivel nacional ab energia sl instalaciones electricas provincia huesca ab energia instalaciones energeticas sa generacion energia fotovoltaica ababol genera sl,1
+854,desarrollo servicios tecnologia fertilidad humana,1
+855,automatizacion industrial fabricacion celulas robotizadas maquinas especiales,1
+856,asesoramiento empresas emprendedores asesoria fiscal contable,1
+857,sector metal actividad fabricacion moldes mecanizado precision,1
+858,consultoria empresas,1
+859,consultoria auditoria formacion seguridad alimentaria,1
+860,fontaneria especialistas cambiar tuberias uralita fibrocemento amianto,1
+861,sector carnico sala despiece elaboracion embutidos preparados carnicos productos gama,1
+862,sector servicios tercera edad cubrir necesidades personas mayores medio rural plazas residenciales centro dia servicios limpieza ayuda domicilio facilitan permanencia domicilio medio rural,1
+863,ambito territorial presente colegio profesional ingenieros tecnicos informatica comunidad autonoma aragon conformidad articulo ley septiembre creacion colegio profesional ingenieros tecnicos informatica aragon,1
+864,organizacion empresarial transporte mercancias ccaa aragon,1
+865,CNAE: 8230 organizacion convenciones ferias muestrascnae,1
+866,ensenanza,1
+867,asesoria laboral fiscal contable,1
+868,industria textil fabricacion instalacion productos proteccion solar industria equipamiento deportivo pistas ski,1
+869,distribucion mayorista material electrico,1
+870,comunicacion marketing diseno formacion diseno web,1
+871,sector educativo educacion secundaria obligatoria bachillerato formacion profesional,1
+872,intermediarios comercio comercializamos envases industria conservera fabricantes maquinaria maquinas cerradoras envases vidrio,1
+873,consultoria juridica tecnica urbanistica actividades consultoria gestion empresarial,1
+874,servicios socio sanitario cuidados personas vulnerables,1
+875,CNAE93 CNAE09 cnae fabricacion ascensores montacargas escaleras mecanicas cnae instalaciones obras construccion sector servicios,1
+876,residencia geriatrica sector socio sanitario,1
+877,despacho abodados,1
+878,fabricante productos quimicos,1
+879,CNAE: 2899 cnae fabricacion maquinaria usos especificos ncop,1
+880,psicologia trabajo social,1
+881,asesoramiento empresas materia medio ambiente patrimonio cultural implantacion monitorizacion sistemas esg environmental social & governance ejecucion proyectos especialmente proyectos renovables,1
+882,informatica comunicaciones,1
+883,ingenieria industrial civil agua ademas rama empresa destinda exclusivamente i+d dentro mundo tratamientos agua propio centro desarrollo ceei zaragoza,1
+884,ingenieria fabricacion electronica,1
+885,construccion ingenieria constructora,1
+886,marketing online sistemas audiovisuales sistemas telecomunicaciones informaticos aplicaciones moviles venta instalacion mobiliario oficina,1
+887,sector socio sanitario residencias personas mayores,1
+888,tic automatizacion procesos industriales consultoria informatica desarrollo software,1
+889,salud visual auditiva,1
+890,consultora tecnologica,1
+891,agencia publicidad especializada marketing estrategico emocional,1
+892,asesoria comunicacion especializada estrategia identidad innovacion ejemplo servicios > documentos estrategicos comunicacion digital instituciones empresas entidades > informes analisis comunicacion marca > generacion podcast marcas instituciones > programacion eventos comunicacion > diseno web > consultoria innovacion medios comunicacion > produccion newsletters corporativas > gabinete comunicacion > estrategia formacion redes sociales canales digitales > generacion contenidos,1
+893,desarollo aplicaciones web servicios telecomunicaciones mancomunados,1
+894,fabricacion distribucion clinker cemento,1
+895,cnae gestion actividades deportivas,1
+896,cultura educacion,1
+897,infancia juventud servicios sociales,1
+898,cooperacion internacional desarrollo accion social,1
+899,sector social atencion personas afectadas paralisis cerebral patologias afines,1
+900,establecimientos ubicados aragon dedican comercio menor mobiliario hogar,1
+901,laboratorio biotecnologico desarrolla fabrica comercializa productos bioseguridad alternativas naturales sector ganadero agro alimentario,1
+902,fabricacion maquinaria industrias plastico caucho segun cena actividad alcance sgi diseno fabricacion moldes inyeccion modificacion reparacion moldes inyeccion,1
+903,formacion consultoria empresas,1
+904,sector quimico basico produccion productos quimicos inorganicos cloro hidroxido sodico hidrogeno acido clorhidrico hipoclorito sodico bisulfito sodico cloruro calcico acido sulfurico % policloruro aluminio policlorosulfato aluminio sulfato aluminio cloruro ferrico produccion productos quimicos organicos parafinas cloradas parafinas sulfocloradas ceras sulfocloradas,1
+905,consultoria software empresarial,1
+906,fabricacion grupos electrogenos torres iluminacion sistemas almacenamiento energia bombas hidraulicas,1
+907,servicios funerarios,1
+908,consultoria empresas sostenibilidad digitalizacion,1
+909,industria quimica inyeccion plastico,1
+910,centro especial empleo cuyo objeto social insercion personas discapacidad,1
+911,servicio analisis fisicoquimico microbiologico aguas alimentos suelos fertilizantes hojas compost purines dosis seminales,1
+912,servicios consultoria alquileres,1
+913,formacion reglada formacion ocupacional,1
+914,suministro instalacion carpinteria aluminio pvc vidrios proteccion solar interior exterior,1
+915,vino agroalimentacion bodega vinos monegros,1
+916,asociacion comarcal pequenos grandes empresarios,1
+917,sector metal fabricante instalador carpinterias aluminio productos aluminio,1
+918,servicios funerarios integrales tanatorios,1
+919,consultoria formacion desarrollo liderazgo coaching ejecutivo organizativo,1
+920,proveedor componentes plasticos modulos asociados sector automocion,1
+921,transformacion vidrio uso construccion ferrocarril,1
+922,venta mayor ferreteria bricolaje suministro industrial drogueria,1
+923,fabricacion contadores electronicos agua equipos lectura,1
+924,comunicacion marketing gestion marca desarrollamos servicios consultoria desarrollo ejecucion acciones comunicacion marketing responsable comunicacion corporativa comercial creatividad diseno grafico consutoria marketing acciones promocion,1
+925,formacion asesoria responsabilidad social dinamizacion social formacion proyectos programas union europea,1
+926,servicios comunitarios facilities proceso dentro iniciativa empresas insercion,1
+927,centro especial empleo asesoria juridica laboral,1
+928,fabricacion piensos compuestos animales,1
+929,sector industrial fabricantes paneles solares hibridos,1
+930,servicios financieros contables juridicos,1
+931,ensenanza reglada perfeccionamiento profesional ensenanza reglada asesoria direccion formacion personal empresas desarrollo actividades dirigidas posicionamiento comercializacion alojamiento dominios web cuentas correo electronico consultoria asesoramiento tecnico empresas particulares orientadas estudios mercado captacion tramitacion subvenciones ayudas comercializacion software equipos informaticos,1
+932,desarrollo rural gestion programa leader ambito comarca monegros,1
+933,sector comercio servicios ambito actuacion zaragoza provincia,1
+934,educacion formal formal asesoria empresas gestion actividades deportivas infantiles juveniles atencion colectivos desfavorecidos,1
+935,accion intervencion social voluntariado sensibilizacion,1
+936,local mancomunidad central zaragoza mcz caso necesidad autonomico requerimiento dga dpto seguridad proteccion civil,1
+937,agricultura ganaderia comercio establecimientos comercio electronico intermediarios comercio comercio mayor productos zoosanitarios comercio mayor piensos cereales plantas abonos semillas animales,1
+938,trrabajos seguridad altura,1
+939,controller financiero asesoria contable fiscal laboral economica gestion administrativa financiera comercio internacional,1
+940,CNAE: 3299 troquelado cintas adhesivas cnae industrias manufactureras ncop fabricacion articulos ncop alta empresa cuya principal actividad destina sector automocion linea blanca metal working industria vehiculos especiales aeronautica construccion etc damos soluciones tecnicas adhesivas aplicaciones complicadas alta calidad poseemos orientacion innovadora permanente busqueda mejora procesos inversion tecnologia medios productivos situarnos nivel exigencia sectores industriales trabajamos,1
+941,personas discapacidad intelectual desarrollo familias ambito actuacion comunidad autonoma aragon,1
+942,quimico,1
+943,consultoria empresas formacion,1
+944,diseno instalacion mantenimiento sistemas calefaccion ventilacion refrigeracion climatizacion sistemas energias renovables automatizacion,1
+945,servicios paisajismo jardineria agricultura urbana,1
+946,alimentacion fabricacion elaboracion transformacion cafe productos derivados,1
+947,consultoria recursos humanos,1
+948,instalaciones electricas general,1
+949,adicciones ambito prevencion universal selectiva ambito asistencial ambulatorio ambito sensibilizacion ambito insercion laboral formativa ambito prevencion suicidio adolescentes jovenes adultos desarrolla acciones atencion psicosocial prevencion escolar comunitariasensibilizacion difusion intervencion social personas familias problematicas adicciones drogodepencencias incluido comportamentales ludopatiajuego patologico,1
+950,educacion formacion profesional entorno profesional relacion familias profesionales establecidas catalogo nacional cualificaciones centro formacion profesorado formacion profesional ambito autonomico centro referencia nacional centro red excelencia logistica comercial gestion transporte formacion docentes ocupados as desempleados as ambito nacional,1
+951,dedico sector comunicacion digital tres ambitos formacion marketing online ventas habilidades comunicativas community manager comercial,1
+952,consultoria estadistica marketing digital,1
+953,industria quimica fabricacion poliuretano,1
+954,servicios ingenieria,1
+955,sector servicios actividad ensenanza formacion reglada,1
+956,plantilla actual c p consta nueve asesores asesoras formacion cinco mentorias asesor competencia digital docente direccion centro atienden mitad sur zaragoza zona belchite fuentes comarca caspe hace dos cursos contamos varias personas encargadas especificamente desarrollo competencia digital docente tambien contamos persona tiempo parcial gestiona sala recursos realiza prestamo distintos materiales docentes centros educativos ademas cp formado dos auxiliares administrativos tres personas atienden conserjeria centro dos personas servicio domestico todas contribuyen manera activa logro objetivos propuestos presente curso escolar seguimos atendiendo nuevo contexto objetivos planteados ue referencia ii plan marco aragones formacion profesorado va priorizar desarrollo pautas guien centros convertirse organizaciones educativas digitalmente competente desarrollando modelo educacion digital calidad inclusivo accesible ademas lineas establecidas ii plan marco aragones formacion va priorizar mejora competencia digital docente mejora prevencion conflictos resolucion pacifica mismos ambito escolar formacion adecuada aplicacion diferentes aspectos normativa relacionada lomloe actualizacion cientifica didactica colectivos considerados prioritarios diferentes areas curriculares lineas prioritarias actuacion centro referente fundamental va guiar practicas centro profesorado resolucion director general personal formacion innovacion desarrolla programa piloto mentorizacion centros profesorado ana abarca bolea huesca maria avila zaragoza dependientes departamento educacion cultura deporte comunidad autonoma aragon base desarrollaremos forma experimental programa mentorizacion tres ambitos formativos liderazgo internacionalizacion convivencia centros ambito atendemos centros educativos sostenidos fondos publicos,1
+957,madera galerias arquitectura,1
+958,sector sanitario,1
+959,educacion talleres literarios animacion lectura escritura creativa,1
+960,compania sector industrial mercados operamos varios agricultura ganaderia metalurgia construccion mineria offshore industria alimentaria sector automotriz aeronautico naval quimico petroquimico produccion energetica etc dedicamos fabricacion racores acero inoxidable distribuidores conducciones componentes hidraulicos operamos mas paises contamos delegaciones centros logisticos mundo,1
+961,desarrollo implantacion servicios soluciones tecnologias tic electromedicina equipamiento test medida electronico ingenieria integracion,1
+962,consultoria asesoria materia laboral contable fical juridica economica fianciera arquitectura ingenieria seguros particulares empresas administraciones publicas,1
+963,entidad trabaja sector social ambito empleo discapacidad,1
+964,distribucion menor combustibles vehiculos promocion explotacion estaciones servicio actividades accesorias,1
+965,ensenanza formacion ensenanza reglada,1
+966,actividades sedes centrales,1
+967,transformacion materiales plasticos,1
+968,servicios arquitectura ingenieria arquitectura ingenieria tecnica informes direcciones obras certificados energeticos valoraciones proyectos etc,1
+969,sector turistico local nacional internacional,1
+970,publico poblacion,1
+971,industria fabricacion mobiliario urbano parques infantiles equipamiento deportivo,1
+972,servicios informatica comunicaciones empresas,1
+973,empresa pequena dedicamos distribucion productos alimentacion,1
+974,diseno marca arquitectura comercial branding,1
+975,sector primario produccion comercializacion huevos gallina,1
+976,industria madera reciclaje,1
+977,ibernordik empresa rrpp marketing comercio internacional organizacion representacion ferias congresos omella next step consultoria estrategica internacionalizacionagroalimentario turismo organizacion ferias eventos,1
+978,inyeccion plasticos tecnicos diversos sectores automocion electronica,1
+979,distribucion productos alimentarios,1
+980,sector limpieza,1
+981,auditoria cuentas auditoria laboral asesoria economica financiera fiscal laboral contable,1
+982,venta materiales construccion,1
+983,prestacion servicios relacionados procesos datos hosting programas informaticos asi accesorios repuestos,1
+984,asesoria empresas abogacia,1
+985,comercializacion maquinaria consumibles embotellado envasado vino agua aceite cerveza licores aragon,1
+986,nacional,1
+987,sector servicios transporte urbano,1
+988,asesoria laboral,1
+989,sector construccion descripcion actividades empresa clasificada empresa contratista obras empresa servicios saon tambien actividades certificados aenor calidad medio ambiente seguridad salud construccion tipos obra movimientos tierras perforaciones desmontes vaciados explanaciones canteras pozos galerias puentes viaductos grandes estructuras fabrica u hormigon masa hormigon armado edificaciones hidraulicas abastecimientos saneamientos acequias desagues defensas margenes encauzamientos obras hidraulicas cualificacion especifica viales pistas firmes hormigon hidraulico obras viales cualificacion especifica instalaciones electricas instalaciones electronicas instalaciones electricas cualificacion especifica instalaciones mecanicas elevadoras transportadoras fontaneria sanitaria instalaciones mecanicas cualificacion especifica especiales sondeos inyecciones pilotajes pinturas metalizaciones ornamentaciones decoraciones restauracion bienes inmuebles historico artistico servicios conservacion mantenimiento muebles inmuebles conservacion mantenimiento edificios conservacion mantenimiento carreteras pistas autopistas autovias calzadas vias ferreas conservacion mantenimiento redes agua alcantarillado conservacion mantenimiento monumentos edificios singulares servicios cualificados restauracion obras arte,1
+990,fabricacion estructuras metalicas,1
+991,indutria agroalimentaria,1
+992,asesoria consultoria ciberseguridad,1
+993,accion intervencion social sensibilizacion voluntariado,1
+994,servicio transporte nacional internacional aereo maritimo terrestre almacenajemanipulacion distribucion mercancias gestion aduanera,1
+995,consultoria marketing,1
+996,servicios logisticos co packing rrhh,1
+997,consultoria formacion empresariales,1
+998,educacion musical ofrecemos ensenanza reglada reglada asi ensenanza edad temprana ensenanza adultos,1
+999,fabricacion distribucion productos polipropileno interiores exteriores,1
+1000,regulados convenio transportes mercancias residuos agua potable realizamos servicios hidrolimpiezas inspeccion tuberias autorizacion venta madera triturada transportada destino biomasa obtenida trituracion arboles frutales certificacion sello sure sostenibilidad,1
+1001,ensenanza diseno desarrollo ejecucion evaluacion servicios formacion,1
+1002,tecnologia innovacion,1
+1003,juvenil instalaciones propias actividades somontano barbastro participantes edad escolar universitaria espana extranjero,1
+1004,atencion social ambito actuacion personas mayores personas discapacidad,1
+1005,personas diversidad funcional infancia tercera edad apoyo familias,1
+1006,planta transferencia gestion residuos,1
+1007,ayuntamiento,1
+1008,fundaciones deportivas,1
+1009,servicios empresas toda provincia teruel,1
+1010,asesoria despacho abogados,1
+1011,eficiencia energetica dentro marco instalaciones electricas,1
+1012,sector artes graficas personalizacion productos traves distintos formatos impresion,1
+1013,entrenamiento personalizado actividad fisica actividades promocion salud actividades entorno natural,1
+1014,industria mecanica,1
+1015,formacion vial actividades transporte,1
+1016,recogida recuperacion clasificacion chatarras ferricas ferricas posterior venta industria siderurgica transformadores finalistas,1
+1017,montajes electricos general,1
+1018,elaboracion comercializacion vinos dop carinena,1
+1019,multisectorial mecanizado arranque viruta pieza unitaria fabricacion mecanica general,1
+1020,medios comunicacion,1
+1021,seleccion contratacion formacion personal auxiliar apoyo organizacion organizacion eventos congresos,1
+1022,asesoria empresas asesoramiento laboral fiscal contable mercantil,1
+1023,construccion obra publica obra civil,1
+1024,ensenanza reglada formacion perfeccionamiento profesional,1
+1025,servicios empresas,1
+1026,actividades jardineria,1
+1027,coaching formacion consultoria estrategica especializado adopcion marcos metodologias agile lean,1
+1028,joyeria,1
+1029,sector agroalimentario naturaleza jardineria,1
+1030,consultoria negocio dedicada analisis desarrollo implantacion formacion soporte erp gestion tipo empresas dynamics bussines central navision asi vertical especifico sector estaciones servicio multienergia llamado dyngas productos,1
+1031,gestion actividad almacen regulador opel espana,1
+1032,dedicada reciclado aparatos electricos electronicos gama marron extraccion materiales provenientes electrodomesticos ser reincorporados nuevo cadena productiva industrial materia prima,1
+1033,montaje decoracion carpinteria madera,1
+1034,servicios alimentacion restauracion servicios organizacion congresos asambleas etc,1
+1035,construccion prefabricados hormigon,1
+1036,construccion redes electricas telecomunicaciones,1
+1037,educativo,1
+1038,ambito actuacion principal comunidad autonoma aragon perjuicio opere resto territorio nacional desarrollo socioeconomico comunidad autonoma aragon empleo formacion investigacion desarrollo accion social servicios recursos humanos empresas emprendimiento formacion innovacion marketing recursos humanos responsabilidad social nuevas tecnologias apoyo integracion jovenes mercado laboral mediante impulso becas formacion investigacion desarrollo congresos ciclos conferencias jornadas difusion conocimiento ambito cultura ciencia economia social participacion proyectos investigacion economia sostenible busqueda socios tecnologicos financieros aportacion fondos propios,1
+1039,educativo discapacidad intelectual,1
+1040,sector energia,1
+1041,deportivo actuacion nivel nacional territorial aragon local zaragoza,1
+1042,servicios comunidad servicios edificios servicios ciudades entornos,1
+1043,fundicion acero actividad industrial,1
+1044,CNAE 2529 siderometalurgia cnae fabricacion cisternas grandes depositos contenedores metal diseno fabricacion instalacion comercializacion plantas almacenamiento cereal silos depositos agua,1
+1045,mecanizacion comercializacion distribucion metales plasticos tecnicos elementos estanqueidad comercializacion distribucion hidraulica neumatica,1
+1046,arquitectura rehabilitacion mas anos rehabilitando edificios viviendas locales creamos espacios diferentes gente diferente transformar espacios pasion,1
+1047,diseno web mantenimiento soporte web marketing online consultoria,1
+1048,sector servicios cuidados hogar,1
+1049,sector artistico empresa teatral centrada espectaculos titeres construccion escenografias titeres companias,1
+1050,servicios organizacion eventos talleres diseno venta productos fin social,1
+1051,administracion debe actuar ambitos aplicacion,1
+1052,educacion formacion profesorado segundo ano consecutivo centro profesorado cuenta plantilla asesorias direccion auxiliar administrativo persona personal limpieza persona asesoria competencia digital docente incorporo enero septiembre incorporaron dos personas mentorias digitales zona geografica bastante amplia abarca comarca alto gallego jacetania parte sobrarbe boltana total asesoramos acompanamos formativamente centros educativos diferentes ensenanzas,1
+1053,educacion formacion profesorado centro centro profesorado zona geografica atencion amplia abarcando varias comarcas provincia huesca somontano ribagorza sobrarbe litera cinca medio bajo cincaen total atiende centros educativos diferentes ensenanzas,1
+1054,logistica comercializacion productos alimenticios especialmente temperatura controlada obrador fileteado porcionado congelacion productos carnicos,1
+1055,fabricacion comercializacion envases embalajes madera,1
+1056,tratamiento placas electronicas componentes raees residuos aparatos electricos electronicos,1
+1057,grupo c industrias manufactureras fabricacion productos metalicos,1
+1058,venta distribucion explosivos,1
+1059,CNAE 6202 actividades programacion informatica actividades consultoria informatica cnae gestor residuos preparador reutilizacion,1
+1060,actividades descontaminacion servicios gestion residuos,1
+1061,orache desinfection empresas mas innovadoras sector quimico fabricando comercializando pastillas desinfectantes presente paises mundo contamos equipo amplio experiencia mas anos compactacion pastillas vendemos distribuidores grandes superficies centrales compra cliente final disponemos equipo tecnico comercial completo profesional cubrimos mundo contamos laboratorio propio certificados analisis produccion diaria desarrollo nuevos productos,1
+1062,centros servicios atencion personas discapacidad,1
+1063,seguridad industrial,1
+1064,formacion empleo medioambiental agroforestal telematica presencial,1
+1065,ambito actuacion provincial,1
+1066,sector mujer socio cultural ambito actuacion provincia huesca,1
+1067,asociacion multisectorial empresarios comarca jacetania,1
+1068,adaptacion integral espacios mejorar accesibilidad universal personas,1
+1069,conferencias formaciones desarrollo personal profesional comunicacion publico,1
+1070,investigacion desarrollo comercializacion piezas innovadoras sector prefabricado,1
+1071,CNAE: 494 cnae transporte mercancias carretera,1
+1072,fabrica pinturas plasticas pastas temple barnices esmaltes imprimaciones productos afines,1
+1073,grupo sifu centro especial empleo lider prestacion facility services socialmente responsables proporcionamos aquellos servicios compania puede externalizar pueda centrarse actividad principal,1
+1074,educacion colegio privado concertado oferta educativa educacion infantil unidades jornada partida educacion primaria unidades jornada partida educacion secundaria unidades bachillerato unidades modalidades humanidades ciencias tecnologia ciclos formativos f p grado basico unidades modalidades informatica comunicaciones electricidad electronica f p grado medio unidades modalidades mecanizado instalaciones telecomunicaciones electromecanica vehiculos automoviles instalaciones electricas automaticas sistemas microinformaticos redes f p grado superior unidades especialidades programacion produccion fabricacion mecanica automatizacion robotica industrial sistemas telecomunicaciones informaticos desarrollo aplicaciones multiplataforma sistemas electrotecnicos automatizados automocion curso especializacion modelado informacion construccion bim,1
+1075,fabricacion componentes piezas accesorios vehiculos motor,1
+1076,actividades deportivas gimnasio,1
+1077,sector automocion dedicamos desarrollo fabricacion componentes cajas cambio manuales cajas transferencia sector automocion,1
+1078,automatizacion industrial,1
+1079,educacion centro formacion,1
+1080,CNAE: 7490 prestacion servicios gestion inmobiliaria cnae,1
+1081,comercializacion relacion actividades relacionas abonos fertilizantes fitosanitarios semillas elementos destinados agricultura comercializacion relacion actividades relacionadas productos veterinarios medicamentos desinfectantes biocidas asi productos nutricion animal comercializacion actividades relacionadas vallados mallas tipos produccion frente granizo u inclemencias posibles danos asi actividades jardineria venta alimentos mascotas servicios desinfeccion desratizacion industrial domestica consultoria formacion,1
+1082,distribucion fruta verdura canal horeca,1
+1083,educacion secundaria tecnica profesional,1
+1084,ensenanza idiomas traducciones asesoria viajes,1
+1085,desarrollo software experiencias interactivas,1
+1086,empresa especializada fabricacion transformacion espuma tecnica,1
+1087,emprendimiento entorno rural,1
+1088,instalacion celebracion espectaculos deportivos,1
+1089,industria electrica,1
+1090,contact center atencion cliente,1
+1091,formacion idiomas,1
+1092,inndeo empresa ingenieria base tecnologica focalizada prestacion servicios ingenieria i+d+i areas desarrollo producto consultoria procesos industriales actualidad empresa disena fabrica bajo marca inspectra equipos automatizacion control calidad alimentos mediante novedosas tecnicas vision artificial,1
+1093,confeccion toldos transporte industriales,1
+1094,inyeccion plasticos tecnicos,1
+1095,sector siderometalurgia diseno desarrollo fabricacion reparacion moldes utillajes trabajos mecanizado piezas diseno desarrollo fabricacion piezas plastico inyeccion,1
+1096,textil automocion,1
+1097,diseno fabricacion componentes electronicos pasivos bobinas transformadores,1
+1098,envases embalajes,1
+1099,sector industrial automocion ingeniera estructural mecanica electrica automatizacion proyectos instalaciones industriales fabricaion equipamientos mantenimientos industriales,1
+1100,fabricacion productos medicos quirurgicos,1
+1101,manufacturas fabricacion servicios industriales terceros,1
+1102,fabricacion piezas plastico inyeccion gr asi decoracion acabados piezas esteticas procesos tampografia soldadura ultrasonidos fresado termograbado pegado componentes,1
+1103,comercio mayor toda clase productos textiles confeccion calzado articulos cuero especificados,1
+1104,fabricacion productos caucho,1
+1105,sector industria comercio metal fabricacion comercializacion herramientas corte,1
+1106,nuevas tecnologias,1
+1107,ensenanzas regladas oposiciones idiomas informatica clases refuerzo formacion empleo,1
+1108,metal servicio asistencia tecnica mantenimiento aparatos climatizacion calefaccion agua caliente sanitaria,1
+1109,sector tic seguridad informatica,1
+1110,climatizacion ventilacion aerotermia obras reformas,1
+1111,venta reparacion equipos informaticos electronica telefonia distribuidor autorizado fibra movil varias companias telecomunicaciones organizacion eventos discomoviles fotomaton,1
+1112,sector servicios prestacion servicios consultoria organizaciones instituciones obtencion certificaciones mejora procesos ambitos excelencia engamegement personas innovacion sostenibilidad,1
+1113,CNAE 4321 energia renovable fotovoltaica cnae instalaciones electricas,1
+1114,metasa compania especializada tratamientos termicos termoquimicos base acero,1
+1115,metal telecomunicacion,1
+1116,fabricacion maquinaria agraria forestal,1
+1117,servicios tic programacion desarrollo software,1
+1118,arilo fruits sl empresa dedicada elaboracion zumo granada natural sector agroalimentario,1
+1119,empresa biotecnologica investigacion desarrollo fabricacion apis medical device cosmetica complemento alimenticio,1
+1120,mecanizados,1
+1121,revaparacion venta vehiculos automoviles,1
+1122,agricola fabrica comercializadora envasadora productos fertilizantes,1
+1123,comercializacion carbonatos calcio aridos calizos,1
+1124,actividades regladas servicios soporte area calidad,1
+1125,CNAE 4675 cnae,1
+1126,diseno conformado tuberia rigida flexible diseno fabricacion montaje bloques manifold desarrollo montajes especiales suministro material hidraulico,1
+1127,sector industrial actividad servicios integracion soluciones metrologia d industrial,1
+1128,fabricacion primeras materias plasticas,1
+1129,control plagas ddd desinfeccion desinsectacion desratizacion control xilofagos control aves control microorganismos control prevencion legionella auditorias calidad aire interior edificios cai,1
+1130,fabricacion productos plastico,1
+1131,alimentario industrial produccion pigmentos blancos alimentarios industriales partir sulfato calcico natural,1
+1132,industria tratamiento aguas cubrimos todas necesidades cliente relacionadas agua actividades principales asesoria aportar soluciones tratamiento aguas mantenimiento tratamiento aguas recreacionales aguas consumo instalaciones industriales dar cumplimiento legislativo rd rd rd analisis agua laboratorio acreditado enac fabricacion comercializacion productos quimicos tratamiento agua servicio asistencia tecnica sat instalaciones tratamiento agua desarrollo proyectos ingenieria auditoria segun necesidades clientes,1
+1133,distribucion explosivos,1
+1134,mediacion seguros,1
+1135,araven slu compania internacional especializada diseno desarrollo gestion produccion comercializacion completa innovadora gama productos plasticos conservacion manipulacion alimentos sector hoteleria restauracion comercial,1
+1136,distribucion productos servicios veterinarios,1
+1137,voluntariado,1
+1138,distribucion azulejos baldosas ceramica,1
+1139,estructuras metalicas,1
+1140,tecnologico inmobiliario administrativo,1
+1141,CNAE 620 codigo cnae programacion consultoria actividades relacionadas informatica,1
+1142,transporte externalizacion procesos logisticos productivosmanipulacion montaje materiales componentes industriales,1
+1143,desarrollo soluciones tecnologicas,1
+1144,ingenieria consultoria especializada redaccion proyectos relacionados sector primario alimentacion,1
+1145,servicios limpieza restauracion jardineria mantenimiento manipulados diversos organizacion eventos,1
+1146,ibernex dedica diseno desarrollo fabricacion soluciones comunicacion residencias hospitales,1
+1147,consultoria integral recursos humanos seleccion formacion consultoria coaching,1
+1148,CNAE 8559 CNAE 9001 CNAE 9003 CNAE 5915 CNAE 9003 CNAE 9001 ensenanza musical cnae animacion sociocultural cnae producciones artisticas musicales v tiempo libre cnae producciones cinematograficas video cnae creaciones artisticas literarias cnae artes escenicas cnae actividades grabacion sonidos edicion m actividad cnae artes escenicas,1
+1149,industria quimica fabricacion monogliceridos,1
+1150,biotecnologiafabricacion comercializacion test in vitro seguridad alimentaria,1
+1151,intermediacion asesoramiento prestacion servicios ingenieria direccion proyectos mediante elaboracion estudios calculos planos demas trabajos relacionados ingenieria,1
+1152,actividades contabilidad teneduria libros auditoria asesoria fiscal,1
+1153,educacion formal,1
+1154,servicios lavanderia industrial imprenta digital,1
+1155,asesoria juridica laboral gestion laboral,1
+1156,asistencial sociosanitario,1
+1157,servicios corredores seguros,1
+1158,construccion general,1
+1159,medioambiente,1
+1160,bienestar salud emocional formacion programas entrenamiento,1
+1161,sector industrial actividad cnae fabricacion maquinaria uso general ncop,1
+1162,dr schar espana slu dedica fabricacion comercializacion productos gluten,1
+1163,construccion rehabilitacion restauracion edificios,1
+1164,marketing digital consultoria diseno,1
+1165,arquitectura urbanismo prestacion servicios consultoria arquitectura realizacion proyectos direcciones obra ambito edificacion urbanizacion prestacion servicios planeamiento gestion asesoramiento urbanistico,1
+1166,servicios profesionales arquitectura urbanismo,1
+1167,comercio minorista articulos regalos decoracion,1
+1168,sector turismo agencia viajes,1
+1169,arquitectura urbanismo,1
+1170,CNAE 2521 desarrollamos actividad sectores ingnieria fabricacion bienes equipo consultoria servicios mantenimiento puesta marcha instalaciones inscritos cnae fabricacion cisternas grandes depositos contenedores metal,1
+1171,comercio mayor frutas verduras,1
+1172,consultoria especializada normativa formacion proteccion datos privacidad lssice prevencion acoso laboral sexual razon sexo,1
+1173,programacion consultoria actividades relacionadas informatica datos espaciales geograficos,1
+1174,gres aragon industria sector ceramico construccion disena fabrica productos ceramicos pavimentar revestir exteriores interiores recubrir piel edificios revestir coronar rodear piscinas equipar instalaciones requisitos especiales higiene seguridad,1
+1175,agroalimentario recoleccion almacenamiento clasificacion envasado frutas hueso pepita,1
+1176,fundacion cepaim trabaja ocho areas diferenciadas acogida proteccion internacional cooperacion desarrollo codesarrollo desarrollo rural reto demografico empleo formacion igualdad discriminacion interseccionalidad convivencia interculturalidad desarrollo comunitario intervencion infancia jovenes familias agenda urbana exclusion residencial wwwcepaimorg areas actuacion,1
+1177,reparacion maquinaria,1
+1178,enegia petroquimico oil&gas,1
+1179,industria siderometalurgica fabricacion maquinaria usos especificos ncop,1
+1180,industria fabricacion producto distribucion manipulado materiales plasticos metacrilato policarbonato pvc dibond etc,1
+1181,residencia ancianos sector asuntos sociales,1
+1182,consultoria asesoria empresas dedicada ocio turismo,1
+1183,fabricacion films envasado productos,1
+1184,ingenieria automatizacion instalaciones mantenimiento electrico fabricacion equipos electricos carga vehiculo electrico,1
+1185,pertenecemos comercio metal,1
+1186,revalorizacion residuos,1
+1187,industria reciclado plastico,1
+1188,comercio mayor complementos alimenticios elaboracion preparados alimenticios homogeneizados alimentos dieteticos,1
+1189,CNAE 2740 rotulacion cnae fabricacion lamparas aparatos electricos iluminacion,1
+1190,sector juridico actividades juridicas mediacion asesoria consultoria,1
+1191,parques atracciones gestion centros ocio,1
+1192,sector metal mecanizado piezas general,1
+1193,servicios compra venta ganado vivo,1
+1194,tratamiento motores materiales contenido aluminio obtencion aluminio residuo ferrico acero inoxidable residuos molienda elementos ferricos,1
+1195,intermediacion coordinacion prestacion servicios apoyo organizacion actividades economicas intermediacion coordinacion prestacion servicios administrativos contables,1
+1196,fabricacion comercializacion productos calefaccion acs,1
+1197,quimicas inyeccion plasticos,1
+1198,metalurgico especializada procesadod chpa mecanizado piezas decoletaje,1
+1199,ejecucion conservacion mantenimiento obra fabricacion aglomerado hormigon extraccion aridos,1
+1200,actividades sanitarias,1
+1201,CNAE 4321 sector metal cnae,1
+1202,legal consultoria estrategica,1
+1203,control plagas desinfeccion tratamiento prevencion control legionella calidad aire interior educacion ambiental,1
+1204,agencia eventos especialistas produccion gestion organizacion eventos manera integral parcial especialistas actividades dinamicas team building incentivos creamos experiencias agencia personal staff azafatas promotoras camareros personal auxiliar departamento kids especializado animaciones infantiles fiestas actuaciones pintacaras globoflexia magia departamento servicios auxiliares buzoneo carteleria parabriseado destruccion documental alquier carritos food eventos,1
+1205,marketing publicidad,1
+1206,agroalimentario venta carne ecologica,1
+1207,instalaciones electricas baja tension instalaciones especiales revision reparacion bobinado motores electricos construccion cuadros pequenas grandes series gestion energia reactiva suministro materiales consumo grandes series fabricacion trabajos taller,1
+1208,distribucion pinturas decorativas industriales revestimientos,1
+1209,confeccion ropa trabajo,1
+1210,programacion consultoria actividades relacionadas informatica,1
+1211,industria agroalimentaria,1
+1212,organizacion eventos empresariales comunicacion digital,1
+1213,produccion audiovisual programas tv spots creacion organizacion eventos realizacion streaming corporativos deportivos videos empresa,1
+1214,almacen madera,1
+1215,fabricacion productos metalicos,1
+1216,siderometalurgia diseno fabricacion impresoras d relacionado fabricacion aditiva,1
+1217,consultoria servicios informaticos,1
+1218,insalaciones electricas fotovoltaicas frigorificas climatizacion,1
+1219,servicios inmobiliarios financieros,1
+1220,centro especial empleo actividades distribucion flores paqueteria mensajeria,1
+1221,mecanizado,1
+1222,agricultura deshidratadora alfalfa forrajes comercializacion cultivo cereal comercializacion,1
+1223,gestion comunicacion organizaciones periodismo generacion contenidos gestion redes sociales,1
+1224,turismo activo,1
+1225,asociacion profesional corredores corredurias seguros comunidad autonoma,1
+1226,reconocimiento alta regimen especial trabajadores cuenta propia autonomos actividad economica comercio menor articulos descripcion actividad serv organiz congresosasambleas grupo epigrafe seccion iae tipo actividad empresarial descripcion actividad com men sellos monedas medallas colecc grupo epigrafe seccion iae tipo actividad resto empresariales descripcion actividad empresas estudio mercado grupo epigrafe seccion iae tipo actividad resto empresariales descripcion actividad servicios publicidad relaciones public grupo epigrafe seccion iae tipo actividad resto empresariales descripcion actividad edicion libros grupo epigrafe seccion iae tipo actividad resto empresariales,1
+1227,psicologia coaching,1
+1228,internet,1
+1229,discapacidad intelectual desarrollo ocio tiempo libre deporte actividades artisticas formacion reglada etc ciudad zaragoza,1
+1230,estampacion textil grabado experimental obra grafica artesania,1
+1231,construccion explotaciones avicolas porcinas ganaderas fabricacion suministro equipamiento,1
+1232,instalaciones electricas ingenieria,1
+1233,administracion militar,1
+1234,industria servicios comerciales ingenieria fabricacion sistemas manejo fluidos distribucion equipos manejo fluidos,1
+1235,siderometalurgia,1
+1236,transformacion chapa hierro,1
+1237,epigrafe iae construccion maquinas agricolas epigrafe iae comercio mayorista maquinas agricolas,1
+1238,sector quimico servicios distribucion productos quimicos asi servicios adicionales relacionados mismo principalmente carbon activo resinas intercambiadoras,1
+1239,fabricacion maquinaria agricola cabezales recolectores maiz girasol,1
+1240,marketing comunicacion digital estrategias posicionamiento local nacional internacional campanas ecommerce redaccion web asesoramiento anuncios buscadores smm anuncios redes sociales,1
+1241,comunicacion visual artes graficas,1
+1242,audiovisuales creativos,1
+1243,agencia comunicacion diseno organizacion eventos congresos servicio azafatas formacion protocolo relaciones publicas comunicacion organizacion convenciones ferias muestras,1
+1244,hosteleria albergue turistico alojamiento actividades juveniles ocio tiempo libre colonias verano,1
+1245,crecimiento personal coaching personal profesional formacion,1
+1246,bodegas alodia bodega perteneciente denominacion origen vino somontano vinedo propio dedicamos elaboracion vinos espumosos ademas ofrecemos visitas guiadas bodega restaurante alcanon alodia ofrece menu degustacion maridado vinos propios agricultores industria agroalimentaria punto turistico interes ofrecemos servicio restauracion,1
+1247,servicios instalaciones electricas,1
+1248,sector agroalimentario actividad elaboracion mermeladas artesanas conservas vegetales,1
+1249,optica audiologia,1
+1250,asesoria consultoria empresarial,1
+1251,formacion empleo insercion orientacion laboral promocion empresarial,1
+1252,organizacion eventos promociones contratacion personal consultoria eventos asesoria materia protocolo oratoria,1
+1253,carpinteria pvc aluminio fabricacion comercializacion instalacion,1
+1254,sector industrial mantenimiento automatizacion industrial,1
+1255,empresa dedicada siguientes actividades servicio limpieza integral vivienda comunidades negocios industrias trabajos especiales trabajos altura venta distribucion productos limpieza higiene,1
+1256,confeccion articulos textiles,1
+1257,actividad tereos va dirigida fabricacion almidones productos amilaceos partir maiz modificado geneticamente unica materia prima produce principalmente almidones glucosas productos emplean diversas aplicaciones ingredientes basicos nutricion humana animal alimentacion infantil emplean excipientes principios activos productos farmaceuticos sueros hospitalarios tratamientos hemodialisis asi aplicaciones industriales fabricacion papel carton,1
+1258,consultoria sostenibilidad ambiental social,1
+1259,marketing digital,1
+1260,asesoramiento gestion empresarial formacion consultoria mentorizacion mediacion conflictos,1
+1261,diseno grafico publicidad merchandising regalos,1
+1262,consultoria prestacion servicios ambito responsabilidad social empresarial investigacion social diseno implementacion evaluacion proyectos sociales,1
+1263,energia medio ambiente energias renovables,1
+1264,CNAE: 1102 industria agroalimentaria elaboradora comercializadora vinos perteneciente denominacion origen protegida somontano cnae,1
+1265,soluciones integrales ingenieria consultoria,1
+1266,produccion audiovisual,1
+1267,fabricacion venta maquinaria elevacion,1
+1268,servicios profesionales drones,1
+1269,sector carnico agricola energia renovable,1
+1270,servicios vending maquinas expendedoras cafes aguas refrescos alimentos epis,1
+1271,construccion rehabilitacion edificios,1
+1272,diseno redaccion direccion proyecto arquitectura singular modular sostenible,1
+1273,consultoria prevencion riesgos laborales ga group trabajamos activar potencial equipos trabajo organizaciones traves aprendizaje sensibilizacion expertos desarrollo proyectos impacto especialmente areas prevencion riesgos laborales gestion equipos procesos transformacion fundamentan innovacion creatividad metodologias disenadas contrastadas equipo adaptan nuevos conceptos nacen particular laboratorio ideas crear proyectos unicos emocionales,1
+1274,ambito autonomico,1
+1275,aeronautica espacio defensa,1
+1276,social sanitario apoyo familias formativo legal,1
+1277,cultural social autonomico,1
+1278,formacion planificacion estrategica,1
+1279,interiorismo reformas imagen marca,1
+1280,sector metal fabricacion cintas transportadoras,1
+1281,pasteleria panaderia industria agroalimentaria,1
+1282,formacion competencas digitales personas mas anos servicios,1
+1283,servicios informaticos,1
+1284,sector agropecuario,1
+1285,salud mental,1
+1286,integracion laboral arcadia sl entidad animo lucro desarrolla actividades ambito salud mental ciudad huesca objetivo proporcionar usuarios integracion socio laboral facilite afrontar vida diaria,1
+1287,empresas,1
+1288,sociocultural,1
+1289,CNAE 7112 cnae servicios tecnicos ingenieria actividades relacionadas asesoramiento tecnico,1
+1290,convenio comercio metal fabricantes sistemas union cables sistemas suspension soportacion suministramos kits listos uso incluye cable acero galvanizado cortado medida,1
+1291,educacion ambiental ocio actividad economica zoologico botanico similares,1
+1292,publicacion prensa diaria,1
+1293,produccion piezas platico automocion,1
+1294,CNAE 2015 sector primario cnae fabricacion fertilizantes compuestos nitrogenados,1
+1295,serigrafia diseno grafico encuadernacion artesanal,1
+1296,plataforma logistica agroalimentaria,1
+1297,servicios tecnologia audiovisual,1
+1298,comercio mayor maquinaria industrial servicio postventa especializacion aire comprimido vacio industrial,1
+1299,energias renovables climatizacion electricidad,1
+1300,economista servicios empresas profesionales,1
+1301,servicios diseno prestacion servicios consultoria recursos humanos especializada programas outplacement individual grupales asi programas recolocacion planes sociales diseno prestacion servicios consultoria estrategica gestion proyectos especializada licitaciones gestion subvenciones planes formacion planes empleo programas recolocacion planes comunicacion estudios mercado imparticion cursos formacion,1
+1302,sector metalurgico,1
+1303,ganaderia produccion ganado porcino,1
+1304,fabricacion articulos acabados metales ncop,1
+1305,ingenieria arquitectura servicios asesoria tecnica,1
+1306,ambito actuacion entidad principalmente local abarcando toda extension sistema iberico zaragozano desarrollamos mayor parte proyectos restauracion ecosistemas conservacion biodiversidad obstante contamos capacidad respaldo institucional actuar nivel estatal dado entidad alcance nacional estructura permite implementar iniciativas especificas areas geograficas territorio espanol coordinar acciones conservacion restauracion diferentes ecosistemas dentro pais enfoque combina intervencion local capacidad replicar escalar iniciativas asegurando asi buenas practicas desarrolladas ambito sistema iberico puedan ser implementadas regiones contribuyendo conservacion biodiversidad nivel estatal,1
+1307,alimentacion comercio minorista,1
+1308,ambito accion propio asociacion vendra marcado territorio ambito funcional comunidad autonoma aragon,1
+1309,promocion social laboral personas nivel individual colectivo impulsando reconocimiento ejercicio derechos economicos sociales culturales particularmente sufren condiciones vulnerabilidad encuentran riesgo exclusion social,1
+1310,ambito social amplio servicios basicos comedor ropero atencion sociol personalizada alojamientos temporales centro terapeutico alcohol centro educacion infantil formacion reintegracion socio laboral etc,1
+1311,accion social juventud,1
+1312,madera fabricacion muebles comerciales madera metalicos,1
+1313,hosteleria restauracion formacion,1
+1314,sector transporte mercancias carretera actividad asesoramiento integral tributario fiscal laboral trafico etc,1
+1315,sector empresarial,1
+1316,umec compania especializada mecanizado alta precision fabricacion conjuntos mecanicos utillajes,1
+1317,fabricacion instalacion carpinteria aluminio,1
+1318,productos incontinencia urinaria adultos,1
+1319,marketing,1
+1320,sector construccion,1
+1321,compraventa patatas general toda clase frutos productos agricolas mayor menor destino consumo humano igual siembra plantacionytransporte dichas mercancias,1
+1322,cnae actividades consultoria informatica,1
+1323,consultoria estadistica,1
+1324,residencia personas mayores situacion dependencia,1
+1325,sector construccion consolidacion preparacion terrenos construccion,1
+1326,diseno marketing comunicacion,1
+1327,turismo alojamiento turistico,1
+1328,diseno web editorial grafico comunicacion redes sociales posicionamiento seo optimizacion web,1
+1329,pertenece sector fabricantes cisternas maquinaria agricola actividades desarrolla fabricantes cisternas vehiculos combinados desatascos limpiezas alcantarillado incluyendo servicios carroceria especiales dichos vehiculos pueden incluir vehiculo tractor,1
+1330,sanitario servicios,1
+1331,consultoria proyectos medio ambiente ciclo agua,1
+1332,dentro sector industrial egalle empresa dedica fabricar distribuir productos cosmetica capilar gel hidroalcoholico personalizando diferenciando cada marcas llegar diferentes mercados cosmetica profesional retail multiprecio farmacias,1
+1333,sector telecomunicaciones epigrafe iae epigrafe instalaciones electricas general instalacion redes telegraficas telefonicas telefonia hilos television actividad comunicaciones energia seguridad servicios tic equipamientos iot internet cosas domotica actividad complementaria telecobaragon hace apoyo tecnologico instalaciones etc servicios vendidos anterior,1
+1334,residencia personas mayores,1
+1335,prestacion servicios limpieza mantenimiento limpiezas puntuales empresas particulares comunidades,1
+1336,centro formacion reglada formacion profesional empleo,1
+1337,laboratorio ensayos,1
+1338,prestador cualificado servicios confianza,1
+1339,instalacion carpinteria,1
+1340,soluciones digitales comunicacion online diseno web comercio electronico,1
+1341,externalizacion procesos logisticos industriales,1
+1342,CNAE: 4322 cnae fontaneria instalaciones sistemas calefaccion aire acondicionado,1
+1343,servicios web marketing online gestion proyectos ambito sanitario,1
+1344,consultoria energetica mejora eficiencia energetica ahorro energetico energias renovables,1
+1345,ambito deportivo dedicado deportistas todas edades,1
+1346,faro centro ayuda orientacion problemas humanos nace marzo finalidad establecer atencion profesional anonima gratuita pueda acceder toda persona problema necesite orientacion abordarlo servicio acoge distincion religion ideologias cultura raza sexo,1
+1347,servicios sociales insercion laboral,1
+1348,asistencia atencion integracion social asi promocion insercion laboral personas discapacidad riesgo exclusion social,1
+1349,partido politico ambito nacional,1
+1350,sector deportivo,1
+1351,asociacion idia centra actividad promocion innovacion ambito digitalizacion miembros sede presencia mayoritariamente aragon si bien ambito actuacion mas amplio realizando actividades promocion empleo desarrollo talento capacitacion digital ademas ostentamos presidencia european cluster alliance federacion europea clusters julio noviembre idia presidio federacion nacional empresas innovadoras clusters actualmente continuamos junta directiva secretaria asuntos europeos pues presencia territorio nacional europeo colaboramos multitud clusters diferentes sectores,1
+1352,objetivos fundacion promover acceso personas discapacidad mercado laboral plenas garantias accesibilidad igualdad condiciones promover formacion permanente calidad grupo sujeta fundacion fin lograr maxima competitividad mercado laboral apoyar empresas entidades instituciones actuan intermediarios laborales fin cubrir ofertas trabajo candidatos adecuados cumpliendo finalidad fundacion informar asesorar contratistas beneficios economicos fiscales valor anadido conlleva incorporacion personas discapacidad organizacion asi posibles medidas alternativas contratacion apoyar organizaciones proceso incorporacion persona discapacidad plantilla procedimientos documentales adaptacion entorno laboral busqueda soluciones tecnicas tecnologicas necesarias cada persona promover difundir cultura igualdad traves organizacion participacion publicaciones conferencias foros congresos colaborar proyectos investigacion desarrollo asi posterior difusion resultados relacionados acomodado entornos herramientas trabajo necesidades personas discapacidad promover colaborar acciones encaminadas mejorar calidad vida grupos riesgo exclusion,1
+1353,atencion personas discapacidad auditiva comunidad autonoma aragon,1
+1354,ambito actuacion comarca maestrazgo teruel sectores presentes territorio,1
+1355,sector servicios desarrollo socioeconomico hoya huesca,1
+1356,ingenieria automatizacion,1
+1357,educacion cultura,1
+1358,sector ingenieria industrial actividades industria automatizacion industrial digitalizacion integracion sistemas horizontal vertical cuadros electricos control distribucion migracion equipos robotica celulas robotizadas cobots plantas proceso plantas piloto instalaciones llave mano maquinas especiales maquinas medida equipos ensayo retrofitting,1
+1359,artes graficas packaging,1
+1360,comercio mayor tejidos metros industria manufacturera sector quimico transformacion espuma flexible pu polimeros,1
+1361,arquitectura construccion,1
+1362,diseno comunicacion,1
+1363,distribucion productos ecologicos,1
+1364,tecnologias informacion comunicaciones sector sanitario sociosanitario,1
+1365,sector comunicacion actividad periodismo comunicacion corporativa marketing digital,1
+1366,sector actividad agricola ganadero realmente aun cuenta siempre usuarios finales clientes reales empresas distribuidoras decir instaladores cooperativas venden socios departamento ingenieria grandes empresas electricidad realizan instalaciones constructoras granjas almacenes vez realizan llaves mano etc,1
+1367,prestamos servicio instalacion mantenimiento calefaccion climatizacion toda provincia teruel poblaciones limitrofes molina aragon daroca ademuz segorbe tambien sat oficial marcas sector acv domusa edilkamin eoss haier honeywell lasian moretti ravelli thermor wolf clientes finales particulares comunidades vecinos sitios publicos hosteleria residencias ancianos empresas sector industrial,1
+1368,construccion vivienda industria,1
+1369,comercio menor flores plantas semillas fertilizantes animales compania alimentos mismos establecimientos especializados,1
+1370,venta productos zoosanitarios farmacologicos animales consumo venta servicios control plagas legionella calidad agua,1
+1371,oficinas despachos,1
+1372,sector telecomunicaciones servicios telefonia fija servicios telecomunicacion,1
+1373,servicios desinfeccion servicios limpieza fabricacion pulverizadores electrostaticos desinfeccion fabricacion desarrollo pulverizadores electrostaticos agricultura,1
+1374,sociosanitario zaragoza capital zaragoza provincia,1
+1375,sector servicios marketing consultoria estrategica desarrollo informatico,1
+1376,empresa dedicada desarrollo ejecucion proyectos instalaciones electricas mecanicas sectores logistico industrial terciario energias renovables,1
+1377,educacion reglada formacion profesional,1
+1378,CNAE 8299 empresarial cnae,1
+1379,CNAE: 4666 cnae comercio mayor maquinaria equipo oficina,1
+1380,servicios profesionales traductor an diploma especializacion filologia aragonesa unizar proyectos rsc especialidad comunicacion sostenible diploma especializacion responsabilidad social corporativa uned suministros profesionales imagen personal orientado empresas profesionales instituciones enls entidades organizaciones,1
