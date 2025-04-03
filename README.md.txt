@@ -49,9 +49,10 @@ Posteriormente sobre los datos obtenidos de clasificación proponemos un modelo 
 
 ## Ejecución
 Ejecuta el notebook con Jupyter:
-bash
-jupyter notebook notebook_v_final_spa.ipynb
+notebook_v_final_eng.ipynb
 
+## Video
+https://drive.google.com/file/d/1TU90OZr8wLIAfG9ycf1M5Oo9TbblGsUU/view?usp=sharing
 
 ## Autor
 Jose Luis Padilla Villanova (https://github.com/jl-padilla)
@@ -109,7 +110,7 @@ Project Structure:
 
 Execution
 Run the notebook with Jupyter:
-notebook_v_final_spa.ipynb
+notebook_v_final_eng.ipynb
 
 Author
 Jose Luis Padilla Villanova (https://github.com/jl-padilla)

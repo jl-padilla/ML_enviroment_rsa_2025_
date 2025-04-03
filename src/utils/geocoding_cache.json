@@ -12582,5 +12582,13 @@
     "CALLE SAN JUAN DE LA CRUZ 30, LOCAL - 50006 - ZARAGOZA": {
         "lat": 41.6413559,
         "lng": -0.8929471
+    },
+    "C/ Octavio de Toledo 2 50007 Zaragoza": {
+        "lat": 41.6331641,
+        "lng": -0.8907295
+    },
+    "C/ DR. CERRADA N\u00ba 14-18 ESC 1-1\u00ba A IZDA 50005 ZARAGOZA": {
+        "lat": 32.5027,
+        "lng": -117.00371
     }
 }
